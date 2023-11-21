@@ -1,0 +1,2070 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Main
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Main
+ identifier : 0x20ec19ae1abe6be4
+ internal_properties : CAAAAAgAAAAxssRbm8Ko08kY2DKhsMR6Z//2NXELINojH+U3VH0SNVdy1eq4dIqvqNfQWlMAtneJ8eeq72xg971zXMkvXASvFLl21L/y09Mjq6Up3nGMaekzkfalB7yO+XBYlrVrYfVaS3533GY/n/5q/LMRv2dx/HdsjcHy78QyrGMesHpjxzgqH8z6MBrAiVbicTY65CQhELZwGaYbKm36ikllSC9YyZI710vVDR4J8AH0ahYCv5PWegt4IZ5S+aUTd12U051Q90HWOha7ZtbDLvNl3YxWOaQ0vCFzF9RqS5PQmWAgIWLjqC1jftnJixz/P+coeGMSMUh3UykszPX6ASgijy8hjMRW22PL3IqnAWijq0s0vS8AnrXiehxuJ7koeKLAGOf/AWWTngb1qYzs6yVGHdKruNDt52QldeQSE99yBh7JxdCQyA/UYxYaInBTb0MYvWTu7nG+q8+5V4ask13iT5MQ75qQkuHMjn+xETOREgjG90JDZ+FxFVY7TJvRX8gNpnqijzs8DwEBlKj340fXd8ZrmhGdfELouDU7srrJEMyEoRSm1AZ6Nzt8LkETVfM0bpDHzaQHK9IG5lb2+j5yZlLVkhcxYpQa2+7y7RkSe7LZYYdMGGKEbrBDf/kXm7VFTTfmvfnixg4VLDpsvF8/p3qdKCVs94O5ELbOvBVte7EZzBmlN0MXRXxPydUFbz7soUyTpAiJPIMTpIWgpGBjkY8UF2JtCkVg5ezlEZNNZhkwkP+lDGY2qm7Sk32UufXbAhwqLpfitbsPT8mgNgnzB3OeuvhQgCxm3abqaJlL7K46aYpHK2ZUFnrR8EHcBBc6wZa63PQsNOo8F5BiRioEXG1iN012aHyUFtKcLBRrKRv/6vtGYEcSzdJS6nGMZODSTnYwzre7P8TbU8N5wSGCJu9hce67r3vRI0xD/auX/ODdmNy2CEu93iAx
+ properties :
+  width : 737
+  height : 577
+  widthClient : 735
+  heightClient : 545
+ controls :
+  -
+    name : Tab1
+    identifier : 0x20ec19ae1ad16be4
+    internal_properties : CAAAAAgAAACxYdZRU5saVCkj8kFXwW/oA3cDuws7C//PTUch0P3FFdiLbk6jetGgRDkzB82B0+ncyS6eIAzchA21wo/e22vHTxKMSnHfxXOEp6cgzHLW9n3REkmVC6oD9od/q3rqiiC4PR7AcsZjDA3aqyFpu225s9GgBTNgnxAlNbsKYmHFGOxnQ2WrlAWA784yc+QAkFYFmk0Ecr/Iu6W6DZXltBNzojC0k9jh+jlUHRAMmzrSWsh/cu5LXVAftaMu8f4oqCVbY+nYv4ehamVzR11hUfZB02JM/0L+UR1QMeJ/twGucB5Yve3URWSU3tbWsOcg3ow3oUWak32LZEdgqdNq2ib0fgK/vVmcOUNg47HW1lSZ5HyZPgkjor6KXv99WhV8emh5V3BgUF2ayjsCGeCkge/UtWWpQSX67pY2UcxWBcqPt8vQjbLVbdZ+98aY3jc2TXM1HVgcDhiy5Sc0NvnXivg4bFc3bfRKRCg6yBGUpbfetIz4ErMbMM3W9xCum7R+DBxziphqPXMkAWqOGX2t3yFHIHw3cUa1OO9uQ73Gon5q7X/hL3QP6v+iuNhqbBvctq6CReZpnlLe+9NoaR2i2syHwapq0M6QUZozD7dSk89kjwtedBb8RD5Hg62/DVefh/C90d8DM202X/oVBozhttVOU0EclLDC+90u+t9H39Jj5e3ozn+G+d7KsUtM5cy7Np59EDtyqMT/w9telA8+QytUDgqoDSZOB7wtmXGTV9PPqNWn5Iegvgb7IDiU5wK4cJ5IC7EXfgTOAVjb44G4TKlsUj+tm1S/+FTfXjlD45lIZhpNB2AjBuwA8TFP7mW5IDUW0nP+YjA9gDkE6pKUA+QeOU2qWwAGXtIXLFnxUWX85OcJfvcKa+SXsYNERANTg0YqCzGklsrs1yg0Mw2Sxg8QzIzFg+LReMVAfnkJx9Czhejjn0naoyVXPkzmARjYqyTkFKJmwVA2LNdtWAkpifn2+3aThxW0Wgk9x9EYefoN/eE0WmIEV3nPVpv0NBlYOd8JdF0K/GkzmuDGMkIuI6UlbNTxd5RGOqB5IVFOEAvOBT1aq5P5pkWsPXLlTEirK8LBViMohAA8qt7mqRBCK5TYgj87usJgGHthHU0nTu2WuFUqOy+nEjt4G5K+bxaYVDIq8Ax5PD57E6XEd2T40+sJrJvpQePqOMQSQP4pGc3M2sdvNUQboOyvaoCGgdJ2IGSfoMLPribbPxmKGE/x0u70RFJ6G21+V6c17OqG3YLSee12TxIG
+    properties :
+     x : 6
+     y : 6
+     width : 725
+     height : 535
+    tabs :
+     -
+       internal_properties : CAAAAAgAAACBUg1xrIWZwlnVTNctLixnp2GkF017uJNry7I/HG2XVXR5LVaCxDmC4qckV3XXbq/ltdUUJa2UpLb/YLb4TjLjAjzcGy8/ZAZbM5XQVlqaRPp6sS9N3AOfeDWkgc4DHShWEGtKQc+KmRI2Wd8ikShwsul1ERF/0adENvwmZqiHHWp0SoIaobSE530uuVx85g==
+       controls :
+        -
+          name : AppTable
+          identifier : 0x20ec19ae1ad36be4
+          internal_properties : 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
+          properties :
+           x : 23
+           y : 17
+           width : 683
+           height : 438
+          columns :
+           -
+             name : IMG
+             identifier : 0x20ec19ae1ad46be4
+             internal_properties : CAAAAAgAAAD1HE3FvFmZY0scypod4NInDWYOIcWLAlSBAVoryLD/DxWxKfDEaQ8OtGXM/hPgc9UTvXrwucvX21FrA6hjeuGnnBcYG6li0Wy9I044c+SlKiXMz7yZp7LmuY2YdGJ3MqA+XqNdqG5/UKFGRpDCnRKdgl5RtREMI+Vw9tS+RP23aMSVZpvaxkX1R+tx1CtF5KCx
+             type : 8
+             content :
+              internal_properties : CAAAAAgAAACs49xm/GaSP14HdGhE7h+F1i0q2y/nwvozRnq95UpoM5j2erY+NmvRrbLfsBNTuwTVRNbvucfmNoQJ9jS/YRG5/ZV56RY4t8QtLkIt/ldVGkSgQd5Hpro3m/bD7WvxL0kxBgXXshaTynSrFTRy6rubsTB0LBFhnkR/UypLQWpI0i0mVlkcNe13MhRp+1rWKVJNIkRKPGFEEvomruhcEbQxuV5A1dRRTnnxJM5cStl5Z0aBniHAUGU1JRBASPkmyhMl4Cq8P+ONOR0PY7Z7Il83T0dswtjOrbvigx2kbDTOE20cQId9iBFzAJzM7leg0a/QV1SbWKUjB1Gb8iJLvorIUKVLz4+6c3dsSKyUG8wQm0oeS1i3PSwCO13+bDU/7NEVH6J1lMxhD29W680i+WGvoEhUbvv591yRPFDetoijoA==
+              type : 8
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 8
+              p_codes :
+               -
+                 type : 41
+           -
+             name : AppName
+             identifier : 0x20ec19ae1ad56be4
+             internal_properties : CAAAAAgAAACYUU15MwIqWLKkzhnyzsmWpqwvIqKh2o7OukOo/DLYYiIlXh4zviz7tPh6YeyUSB9XCOYaN9kJ1QdnMk6c4EWUkqjJ9q8seokQfWv5kx2zSWrJjxo4/1pgF/OC+YfVIvVuRSCmAuFuwYFUNKu6eLbIzEf9bxiaOmSTZo5R0T/kdKChErRZ+sCLZ6nKgIuxyIVBivl8PjIiaFgcFn6nAm4szaR8u5jW9boCxggz4sbqITZFhI/uFJF9DIZ0R+M=
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAABjCKwxKTf47CXImxJaCCrzug+Hn1myr+4Ns7BgwedaPOa7CiVb6ss7zgAs17dJgrpMHrrjRMv8eFXB+1pO3WwILQQNIfIdUZ4KaZ2O5lWf1Vy5tWqXsEY6UEtKZPCee/7ySgEtR2L8NzAdVeZoBtKrc+M6FDFK7YKXPMQ1Hz9h7TCq0vHxrQHCvS4DqfeIbRwQflapmedLSrl6cqoRV8FsFrjK1OtgIVbnmNgiZYe3Oi9kCs7LnmfYYApFFmcJqV921P1cXgXiVHbSxVj41erVmLymG8R5mFGmkkNEOqSdgpZ2TjAWCOfjiweU4eMXv6DFDR5BVCllbWBRWNPsE59Kt+rylqZ27zcqrAEW7cUl6x7Sf0rFtLHBME/pmX0vCJ0RkqV7myBqKeZbNfCH/qLB90QGx5XFbEAfbdgu9PKkTxDLzEgx2KuQVl/oYZ21QzykDqGP1xffv4lcefKKWnJvTps8GXS4jwjxCEutzfdSEFH08nAjeCEV01gccREO4eGW1Yx56csaEnWggLHA8i7CjbmefQfl0eHt/BbfobZCLkGA6rt18m0s2+hRjDpeBOrLD9414YbTXwR63puwOIFJhtkO1E2DahybWpg+8qxgbge2YLW/X3hIZcfAXMk/UzECxukmgFT7EAWgqpfCiZc+aMJz40ctaHEdwqsPfgeBtf7Kxm/5PJ5Z9pGx38YqGgXA+QJuJWAcuvTYh8GNnLglqex04UfIcdiuoRxDG4Gt5gRno0Lj/jdJ3ObSwgM9ClfARApo2Pe3UB2TUWWjrU+a8YyrFYkL5Q8Unfx87II3wYJ1Ve6BJGfxArbK05MBLs6HWwhJZ7Xo2da2UB27TdAwtipSmW3xnYuzwvlluxeZkAQmY7CDGk+b1/oJCdW9a4QziX6UL/CEVPcj5TqMaLKA9miPgPP2IEieaDmwzp95WBucUw2jPTgvRVFyxZU+UE/pbdQDkgg19988mKGUK803izluGQ==
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAADm862WJV2/EEMffmk714YBRMEfQBdk67r8TASNiKtEcVsADOXgjd4ioHPveuC14LSkdaSzuX7GXlp2JHgq2B5XC4aaMiS38a8MFF8UUUY=
+              type_code : 3
+              p_codes :
+               -
+                 code : |1-
+                  
+                  MySelf..Ellipse = ellipsisEnd
+                 type : 14
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : Report
+             identifier : 0x20ec19ae1ad66be4
+             internal_properties : CAAAAAgAAABtP6eM8yNruFPa0Ino5V8DkfxM6mUBYXSqdcbrY8spzbdIlgAH4l8oV0oxmTbx2XBgf36oCE4SJ4tEDt9CDKoeD1seDcGPbfkavjImQi6k3KZ5yhVt1pFoYZ/+5O7AafDULGXtLG9wwsUGUn6Ec4FfvtrmHChwVKu18t4z+lB6zZ4mOc+izC0h4nbQ0y3cePycIuBkHaDbjOC2Oq+jUKcaI6MRa7NO58e9
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAABjCKwxKTf47CXImxJaCCrzug+Hn1myr+4Ns7BgwedaPOa7CiVb6ss7zgAs17dJgrpMHrrjRMv8eFXB+1pO3WwILQQNIfIdUZ4KaZ2O5lWf1Vy5tWqXsEY6UEtKZPCee/7ySgEtR2L8NzAdVeZoBtKrc+M6FDFK7YKXPMQ1Hz9h7TCq0vHxrQHCvS4DqfeIbRwQflapmedLSrl6cqoRV8FsFrjK1OtgIVbnmNgiZYe3Oi9kCs7LnmfYYApFFmcJqV921P1cXgXiVHbSxVj41erVmLymG8R5mFGmkkNEOqSdgpZ2TjAWCOfjiweU4eMXv6DFDR5BVCllbWBRWNPsE59Kt+rylqZ27zcqrAEW7cUl6x7Sf0rFtLHBME/pmX0vCJ0RkqV7myBqKeZbNfCH/qLB90QGx5XFbEAfbdgu9PKkTxDLzEgx2KuQVl/oYZ21QzykDqGP1xffv4lcefKKWnJvTps8GXS4jwjxCEutzfdSEFH08nAjeCEV01gccREO4eGW1Yx56csaEnWggLHA8i7CjbmefQfl0eHt/BbfobZCLkGA6rt18m0s2+hRjDpeBOrLD9414YbTXwR63puwOIFJhtkO1E2DahybWpg+8qxgbge2YLW/X3hIZcfAXMk/UzECxukmgFT7EAWgqpfCiZc+aMJz40ctaHEdwqsPfgeBtf7Kxm/5PJ5Z9pGx38YqGgXA+QJuJWAcuvTYh8GNnLglqex04UfIcdiuoRxDG4Gt5gRno0Lj/jdJ3ObSwgM9ClfARApo2Pe3UB2TUWWjrU+a8YyrFYkL5Q8Unfx87II3wYJ1Ve6BJGfxArbK05MBLs6HWwhJZ7Xo2da2UB27TdAwtipSmW3xnYuzwvlluxeZkAQmY7CDGk+b1/oJCdW9a4QziX6UL/CEVPcj5TqMaLKA9miPgPP2IEieaDmwzp95WBucUw2jPTgvRVFyxZU+UE/pbdQDkgg19988mKGUK803izluGQ==
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : ID
+             identifier : 0x20ec19ae1ad76be4
+             internal_properties : CAAAAAgAAABg+0MWyvOlTR+MF4O1DJeCSDXkndwyV4ZyBQgTDQ9fwEx+2BAPVTxAIEyr7n5Pf0layRBweWzV82vtNlGQBSj95ey9k+CIoiEJwLDXzwH4mUVYS0b0HIkSD9Q1T3diy5xyjUi+zQIQK9QdRflBnui83F7XEDQCKD4ABq2XwISEicyr4qJJwABpBRAwYos5rlJ5MK5YhXrdqNqWUZm1IqRf+povLEM6eQ==
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAADoEbmtPWwYGalZnu8dKhOWWKFJa5LC3c1RQ2mFiR/VCQa5GvM/4l7qplmfTULoRAU7cpkvxvQoWwCsdpUBt7ndiInna6rOZua9Q4Q0U63QUUDMdRGq05/fiA3fOhoyqNaMU61QRGKVkRkwEWUhQcNTvSzP92T93MA5yCp0+CUifUXzzBiI+6zhFuMwmJLVi7U9FCPjxck9bbZ00OuG3YnT975z7xTsP9TnWViDnUPQsAqe2+44pL45pTG6e8q/jDK0AeQxCq+leDbst8YvIXik4GDFPOq/dDyq95ctu1KgcLR+HrLO8Wpt91Pbqgx3fAFz4I4BmJ9/wyY21JefOJDCYhbLdZQjVDruwpoeErlaMmM9U6NO5d6I/3SSjfmK3PFwcGe+Uk8YW4rAMRMbogxO0xinW+HSMHX9kjm89h6HGJhsV99emff5cgYr/WJlkHHV9AcO9mWd7ZMHaz1v4Nu9IJiC+l3OoVepy7QoRisuxp78IXqMN7Sf+9BF0DOSCxxjspQ0Ov4cpSNUELiIUFpFXrIQXvQc/XQ/9N7E1aBcu1IhQHj8n/NvI3KdKTyWwJOqFkQcMMMxdHZS9jDebD9c/3I4a5zwuMlfePJJRPiilTrZbNwcrrTpg+8uX2f3TbDTr7ujay3j6bV2lhygnQ8pR1nbOiwslII3wuNsAAv7vq/rzDgclcyiKqcb3DRGZGrPqKhb5CUEPxQWL7QLYAYgsp1eGm41vT/sDdAEgxM58WVIg7UgBRV21toWFRe3DDAR5XZr93QhuaEtIzg1oUkR1E9BEHaKO6JySWCvCPTF6v1Ai0WsXbMm0gQwPCcf+PkixuqY7MziTsawDBYRyWbZx3tcLvByVVCvFGGgJT//m+fZXTcg4TUYaUYRUKMREVnOvDSPvLcy21OJLQ+aPGSxM60/gaIbIMVsVH3boP+TnYYf5Z6mFm6IOfBIvvm+NTYJoJO3xHzE9ji/D+efJBSVtj6dGt7/B5zrRDqgetRcA51J28WExeFg
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : WinHandle
+             identifier : 0x20ec19ae1ad86be4
+             internal_properties : CAAAAAgAAAAA2KUXrA5ONnoFCOOZn5K9u+zTQQO2jk9CdBOHHvYJDdv9n58ys0feY4vKNRmaZn/7b/6g2AwVi+LOcatK+OlCbKB3kOLUsSGXDpw4Pisx03bl7h2WFRPI1UZCdZ+fHC1xUJ9yP2Nx9JnumvGTrxkvtdluxKKt5ynrnejpbItfQdDtZMX3XPmTlutudfSVG7kZU3U62byZFz7wdSicNOonN8Ecj+waj+iF2+OpWQp2
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAAB8Dq3Mq9akZGzfJ1jAsuZsmtYcbzMHT4Zyo9BQGF/B4lO5XS6AY7fR4qihzTnqfdNeGmREjoekEtdjY7B7a8Y4TrNC7sVitTpSXMfDJ1qRprrc8/+Ci5oNFykJqUbAWOtiRCxA/4SqOjoOzeAC2kS0oA5V9XYCzTCMbLsk/Wfg8bCKl6aiDcVuUSH/V9FoKLFWCjGaVUIjfz6tpRIzIGYIqxdgZPoSLQ4pxPkvhHbQ2/JufYfF56aLPelvhXp+IUDnIYHd3+43Bu1McbTG03vLxrbQSaWxLgH7NB4qwDAtNg4/IlAeJYtTi6saAVVkCcnPkHz1McftI5Im7ZbhFx0cf8uDFmrWFNxSlFYD3/kP5ly2hBVzA0Q+qd0j6QUlJI0PJLietyqA0VnIbq6HAuDPCQzyom4KG762qj5UPQ3n3uYd5wlxZ1TgsGwS9du1G/NJ1Kvu5bUPjohXjJQtvDJWWkBn/Aau1UBCratMr4tRjHhYrhSkmv5+YiIQe+oGWqPBooaHYO+dA6jGkIMfjrlsbsDS5WaHGDLAclTdkkSNIFCdpDsyaDiFAjTNBi2UqUi4WlJHiO6UCtFymg9Rvki9e8QE5hK7CyuQNNicg64jaBaPXlEkcSNpPKViBjoR5B1ht9E0z3q0hzJunJm5kVzMkbVvDUyTL2rU2vvfhzs0p/s5Tv1GqFvwW/vTl9teiUPn+jiAzvgXc39u7UFcCBvdIJWkO8KEyL0FG8bxRC3o0If4g9yCrDTIrRQ0RDqhWdPnYYbWh/cQt4YtI23m48JSwCnVR0LjEBT7VQoWK+52TX9UYZTWSBrO8eYylQSTM45UvlyhUE8p5LMi1PkQZf8kdSOK9ST7DsYA0JPDTAcITAFpbZBG6GAmHAZnkchJxDjeknycPNzbAYJzcXRj5Bmu91/V1lLmb0X5rDnomaW2dih7VVf+N4MgVeNusWd4kZT2Waf9y5KwpXtlZ2qCQ0kgT3FJRYJvt3RTjcUphVjVvQ5z/w==
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : Checked
+             identifier : 0x20ec19ae1ad96be4
+             internal_properties : CAAAAAgAAADrQXH3m4qeoTex7Zj3jjfuKeAGZ/6NOKmQvqDjtmRN9QiUvcmOyED5aUS1q9VGFwAgAvRVyYE/LHCKAY8jUiaAzWjwU0qYHuhyZKgqEa5vVI1Llv24C5M5bmW3emWlrbXuJQf0wJLllVIZAh4Wzeuzqg4sj9EahCvJuhDqvj6CfuC0LdH/KrwGhAryOMD2RBizYy0pGkWqKOXbpV/UgQyvqHxnmZaS+Z4q065cJC9ipj/805wEr6zfHE0ENjif
+             type : 5
+             content :
+              internal_properties : CAAAAAgAAAD1XjG1CIK0G6j7xIHR2UTtU2t7ZWDHcZNhm6CpKR0YuzSz1OYgrloUEzloiaBo/EJskIum1LNRLszSBBtAf/ZeH07Ys/THlTBmJT5DaDPolxE+t+TIkIS2ygk76zL1fhpukp0fpXAqjUD4rX4cI9BrC4qu+TarSCaz6ulJbqRBtcu3RpIqAItI46ndYIk7SjhhGIb8LiB4yXMfH4CVT2Gidoae+i3aDvg0HVUCktSO1OK48S4/fVf9B3fzXaHmYX+zYvNDAPxu/HxXhmdV4BcRN5MyX1EPu0XeVvO6jCjT7R+i4litAuT3dCizHsLZtkKOl1M5hp44A6SY/ds769AIntalMZVTYX2Gxpx3yx2RgPYbeKyt6qubV7bmxvyMYBj96Jbdoy57XLSLg1XY3LhLRnWwrjb8RkwxL/M9Fa+P1mesnMxQaHuGDjMV1psmoCW9kZXgtKy5XoJZE6nSbLIGj9fj1VqOp1R3EjRXwIF4HgJvd2F2k8+nIsNvzp90Vg/GK8BzP6Njfvc0bvx+LfBJXxPLZbfs1iyqG7eeYTy8EoBdi7PuyI8UuD2gp4PjFyLZiEGRJBOm21+BiCgR1UnfM7Sk1PysqMXONspbAldFfrs6oFAzGqF4nVtMeDJpKYVm+/y9m6klhYKXbrjXlKaaiOpV8V2K6gVtCXiHZAoBfjl+0hIy75S8C3dynWv2Iq9Brdmn6vUQyyjzHmvq7W78tnl+GIdzG8APdhYFwiUyu6gHdmBCWpxd
+              options :
+               -
+                 internal_properties : CAAAAAgAAACZ2nNNoNcq0CQOMUHaz5TYNxMCZWC6QYxp9OOAS5gisfGFpUq9b9l+oBtxP1JUQOVzTu5Kjj4QEQ==
+              type : 5
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 5
+              p_codes :
+               -
+                 type : 41
+          type : 9
+          controls : []
+          code_elements :
+           type_code : 9
+           p_codes :
+            -
+              type : 35
+              enabled : false
+            -
+              type : 22
+              enabled : false
+            -
+              type : 24
+              enabled : false
+            -
+              type : 23
+              enabled : false
+            -
+              type : 25
+              enabled : false
+            -
+              type : 230
+              enabled : false
+            -
+              type : 241
+              enabled : false
+            -
+              type : 263
+              enabled : false
+            -
+              type : 262
+              enabled : false
+            -
+              type : 222
+              enabled : false
+            -
+              type : 223
+              enabled : false
+            -
+              type : 224
+              enabled : false
+            -
+              code : |1-
+               
+              type : 66048
+            -
+              code : |1+
+               
+               
+               nRow is int = TableInfoXY(MySelf,tiLineNumber,MouseXPos(),MouseYPos())
+               // Gray the menu if the row is empty
+               
+               IF nRow = -1 THEN
+               	AppMenu.Increase..State = Grayed
+               	AppMenu.Go_to_process..State = Grayed
+               	AppMenu.ToggleTo..State = Grayed
+               	AppMenu.End_of_task..State = Grayed
+               	AppMenu.Put_in_foreground..State = Grayed
+               	AppMenu.Reduce..State = Grayed
+               ELSE // Otherwise, restore it to its initial status
+               	AppMenu.Increase..State = Active
+               	AppMenu.Go_to_process..State = Active
+               	AppMenu.ToggleTo..State = Active
+               	AppMenu.End_of_task..State = Active
+               	AppMenu.Put_in_foreground..State = Active
+               	AppMenu.Reduce..State = Active
+               END
+               
+               // Select the row that was clicked by the user
+               TableSelectPlus(MySelf,nRow)
+               
+               
+              type : 66052
+            -
+              code : |1-
+               
+              type : 66053
+            -
+              code : |1-
+               
+              type : 65659
+        -
+          name : TOGGLE
+          identifier : 0x20ec19ae1ada6be4
+          internal_properties : CAAAAAgAAABnQj5OL8Uefw2Wk3GlbRXo5fZfuQSr4FfXM3QwiaIm6I4gr3TRKyHFqkp2A/eUT4fBBwvEC+DwXeqwDM+bXa2fNJqgHTdpVKuCXmuw31f2zrcNN3XG1a6SYAhqVnFyecGbLFOzT3U4uhBVyBO8ePCxveDBc2Vz7reFGV1ojE2avTC9jC5fguSOotwMQ4OuMgMk79U8KeOK0jojKTXNXZ9sfx84IOjIESSBje2Z/1IxZQrpCBYxdTiM4wLeqpkfQv6oWB4HXvS5XBoncuYDgdFffBVw0Ai9jAcBYjicERDpkBZtpBtFeM7qbup4lvEk72UQrTakGbi3Gt41Y7nxp7gt09Y3I+TteH48TgGwFCqf4XZN1JzjuN1SwcgiJQiAi0aB1tsTuL54toUbi3PYZe28ZXb3QXOe7lLW+RjgA9XMA/fXgQspZ7isRGE7SrOTKqFKiGgz9HyOgBh3eFVBo+yUJfKaBDaP1lPA2+ZTJ0R03kjwfKF3mQzgwzDPia2uMHOFiqHWNNQ3SdC6mSICpC6kUv4M5/1TsWuueVbQ055A6OzFifZEnzCgsiWi/POfODdJYG7dl0xmWCLFWkfk/KMdDs0roHxLhJjjFpwjPVRDY8ja6gDp+b3dfw9km4Vi1uiyW4Cl0eMaAZ0/Xf4rdKi8FcRmmfbK19ekeu9bUnfDGOP7gWSGnrnHxMvzarYMpGcFNLCxP31UP875u5sFkQ8xRzWfyo1sME6i+r36EkP/fi1i1PnMX0ZFLOkWP4FnJ4F0vbvEZ8wy6b2EZ+3Yclg6ODUD1Gpe8hIuv5oekHByTmYbfeCelauvk1s2IOYcvSvt9nF5x2wZfBEE8yBrMUy5mlqqlKqx+uhz4XMY
+          properties :
+           x : 540
+           y : 464
+           width : 80
+           height : 27
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1-
+               
+               // Check the validity of the selected row
+               IF AppTable <> -1 THEN
+               	// Display the selected application in the foreground	
+               	SysWinShow(AppTable.WinHandle,swsRestore)
+               	// iconize WD .Net Task Manager
+               	SysWinShow(Handle(),swsMinimize)
+               END
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : BTN_END
+          identifier : 0x20ec19ae1adb6be4
+          internal_properties : CAAAAAgAAACr/07Qvk8+oRDpnWSkNZEExBj1T9Qf8BuzsLxiVqXfQNkyZGcaC1BjyAiA/nMPyaO0DQhU2prMD1r+sHW7dmvCoNV8ZH7Zth/kHkwIoJ94ZvME6aRBTsAADw/osjHzzWYpOW1pav1J3Ln5qUDNY72hfsm9WTxskByRTQF4EuHDYBufBh4RDojgWZT8pjvz7jU98ebGDMKhQI6NRoLwGSdKELz0vdR9t0STQa+ZvG1DlbuCUvls/Mq4gC0kmjrGOwUSVY/WLQ7UdJv7/fkpvxgN7SvRmi6xvZDO6Tkb+B4KEOqyJn2PPUbLxRnZxGuxF2lQqjtEyPAeMeW1n0CIUqWULcHpC547/JGa0TYefM8N19Jq4qiw/A7FdtLc4Rkh4QNVgxSxOjpZeVVx7bAGe9f32BD655WrkqRfnI7kRz4NJWcy0T93vwgmpHIZPWy6QYp3Nlh6hetgcDJIWuYqupu9PvDiGUtqbrEaYAbq5NcRUc9UeFbYsFh2XVn1OhaFqyBW8AM1p1EZ6SgrB3Ebe53tKyTGfHiQ44s4om618AErBSE96Xv1bhAigGJC5WDC0e6AKOigCtGAjBzsMuTnuapWw2sL+TmO8K7NVUbCqreYnhuc6Nv68NMRNVQuVvz7jZkb8Ug2EmpyK+XopyGOMT1nrFC6+L1LtbPaLbUQx1IurezfwYGDoTN3BEJrRdExwyiySu5KGeergsuIHGyNs61Goa4DxRfPRr1mnAzmqQrNXU+KVJaoLEKeh2JPJV2mPjrVX/vDMWiyT7GPaqK2H7Lg+dZ6YAHJalSU0tJPB5EzFtCIYCJ/m481HSndiLxm53dXt31e0i46bDrx97VING2Vl2xdB8hsf8jrb22fSir31F6a
+          properties :
+           x : 626
+           y : 464
+           width : 80
+           height : 27
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              internal_properties : CAAAAAgAAADoQCwti2fheacm9TrKeXOF7eNAxPXzutPyz43jRY6ULgktPEOc4DHUoiikOdOwYjELKpfTgzC8HJGCeWMXUBGDKrlI9IZeIyOSK3o6Mvbai6mSvJVnJP1vGwiTuyLTqx7AkuN8rYTnYZVXsvsl8gTVMoG/6WWAQvOgragsZpMo67tvMdD9pG0hWS/zAyYd72QzLzYDFuHlVEswUZFM1fyfFkOxFg6L
+              code : |1+
+               nProcessID is int 											// Variable containing the ID of the window process
+               nRow is int												// Variable containing the number of the selected row
+               MyProcess is “System.Diagnostics.Process” dynamic					// Declare a process
+               
+               // Retrieve the row selected in the table of applications
+               nRow = AppTable
+               IF nRow <> -1 THEN	
+               	
+               	// Retrieve the ID of the selected process
+               	nProcessID = AppTable.ID[AppTable]
+               	
+               	// retrieve the process3
+               	MyProcess=Process::GetProcessById(nProcessID)
+               	
+               	// Check the name of the process
+               	// If it's EXPLORER, by using the .NET CloseMainWindow() method, attempts to close Windows
+               	
+               	IF Upper(MyProcess:processName) = “EXPLORER” OR Upper(MyProcess:ProcessName) = “EXPLORER.EXE” THEN
+               		Info(<§$0008§>)
+               	ELSE
+               		// use the .NET method to close the selected window
+               		MyProcess:CloseMainWindow()
+               		// Ends the process
+               		MyProcess:kill()
+               		
+               	END
+               END
+               
+               
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : Image1
+          identifier : 0x20ec19ae1adc6be4
+          internal_properties : CAAAAAgAAACnVIp5QUt52x/G8qqdyF0VJ8Le0m7HzpiaQw3R+QfeOzfbI2MxUVmjLSjRmJUXzI52O2Eh4FNqYvNKRuqxV5x2KrQiji+WoTbihiJog4iYbUmzvM7Uf6dwOx3E3IVQG2WbZ8YDYrIK5uyBAnU7j17/01YzFoIUx/n6VqTa6Hrv89bOUtqRDwD6RoFLYrmJ5piTrFoVcDCMU+bU5af5JiXbDw83s0OthYM6xUbnMyVZyo218PMe6Heg9skeGqmHrxgD7JfCj5SbtPUGjGjZa2lHLrzZ7swBx3HgKZo8KkGa1EpRstgq6SWUxZlMLQUDFUSi0KshSmK9p3wqww0tgVFLsN6ft7S6COQ0HdAsKmH4VKEtHPxN4GoqoI8qo8BmtVnzMr5oOBqlydPCO1/TlFyh/CGB2VOiqOooc1T8T20WClxRyoseA32Z/7lZmMeQsvtFFK+6Bx2X1X0gO/TW2ei0VLJD1w7VGv1SmOfq/7FT/iTdZpwAC3fGLPpf/P3Na8YRj6O+E38xjXODO4Du5IddT4vHuQAQ7J2BXaiVrKMuDKLDCIlIFlkYVNFO9CGyMZh9XIgnqwktvS1biMKKXeJ76njoKftFdyagxDMxqry9fWoMlPihhtsJbSc03Qb5vTVsIlSAN4FGjRpVG4mZcwevLSurMsf0K9bZhRzVJbDdljnYABdKdmdDgnKRsZ0tsUEWEdnbatEIE795fAKI0KeYvkV6n8HcEk6SlSKPbu1oRVLZ2oaL2TM+AYNOiSPU6xcKr4jjokbgiXc+fVlmBw+fEwfYmmb0DuP5xF1VTn9NXbaOBvhXTUAGLGhXAykQmowMN37mOBUeMHYg0suPjJsDNJrPe2mW/HWi867u6nCgeps=
+          properties :
+           x : 6
+           y : 466
+           width : 32
+           height : 32
+          type : 8
+          code_elements :
+           type_code : 8
+           p_codes : []
+     -
+       internal_properties : CAAAAAgAAADqNlV1tqt1WpwSlDSd20E0fbK7w+G8epqWMiWWcJQcX3QuGazNJFIZ+CmB1NBke7cWh9vYfxnr7nh79JWCKUyTRgk5K4TtW6ixzf8YHvxbB+K2tYhszdP+3E0MLwSnkF2skq2LqLi8tNr42wsO7BTezficS1I0eksLzACNxi5B/CLiuOkPkJgowg==
+       controls :
+        -
+          name : ProcessTable
+          identifier : 0x20ec19ae1ade6be4
+          internal_properties : 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
+          properties :
+           x : 6
+           y : 23
+           width : 713
+           height : 396
+          columns :
+           -
+             name : ID
+             identifier : 0x20ec19ae1adf6be4
+             internal_properties : CAAAAAgAAAA6wQNGX6obs8zZIZ7ENYaSfhO/1S88PY4Ht/JhE6vV+4lCe78vvL4KrByg2Ux+xebsY940OJSJolc7muk188bOjPDCqHbObiCQrKYU/yzCfybNir/tshNuyIzluaNWEsSJbNnB0sUjSOC53N1Rsx5s5FvDCPJj10/AxvUCiNHvYNhrQK+5nsZwqiVMlzWJminnOcxgYth8nFeiZBgDCDATa1ZzCHgE90Q5GmjFIQ==
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAABAacPFdXSn9ps2/Q76l5NogBrzAf4ibHvy31IDPuoXY4OVgUxi1VOw9vHoPyYYbACODoCyhvV2HCoXH/bcyyMj37U1DmrE3SNohPGfQVLaaAmxp1bkTPrRAE1JDgLumJqrxJ2FMMuC4BGwGdvRY8rYmfrFMwo+KpWqEOEBDsvFPRC4C8SNjSQl20FBI+BqLGIEddLDtrCsnVWVipGHT2IVIReKkuqp4XaLqQdIWvPkwU1RpBzSioQtrOz11fl+xZ/7YKtTZDlL9YJREW4ULghGZcmOM+w1FlYQwZzyq4RsYk9tlrBSiJANMmG+c1vD8WKEDJFL1aKs0vLE1xChoS6xry5aH696x1SDV1I7Ku34QkbcUv1lHwPaTWpQhR42g5eGXfOPd6Ba/+8+6jvu/RLYPI4c/Z/Ag6Wvah6mWgUCqyzFYb1nXw6551mbnxygnHbyT1DTwTw/HqqUUU/iM+ry4BorcuzYvMEBCnW3JNwEasCzlue3B+uyjPb3PGJyMndRyaZIEGXjiLOk3fpvqFt4tmsWjuon7Cl5rj+SPia/5MjGuiTGzv4cZyYmrwHgKTJuuc503GbwpTI+gfyPfhyLbUnsUQqXwyALxJ3Va7Q55KZsYB5YCd+AueUFX+6XqmmJhudZmbYcSof4Pf5rgw7kRXjvlHibCzdD/uYypTN4b08scjxkErXLsF208ulY8w+f3wJLcBaVnO4AKFpgev3ZoGLE+gYWAoR+z33A5lkAimVxXxMoNBAJcLSxOeTDS1W9YNAfTyWm2DklUiDevzqyxKBp3u7B3vEepR/ZYW7at73p4xu+vCKXGGr7QgItRbA6fyZWSBMJZb5ohUTuxdNkoX4QRHRHRl3NwkT+HCsAJMUYS7NAnv6laUYQyL4X8t7QH56furYNAuX72uNvBnsa12jx+Yi8HSAyakDvMXNsrBLUOczmEwMjIoOv3NlgQhF3VEfMAheTXKKWnhDwq+JsWClORt7KElen/OVWGXbbxvRTIdtf
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAADm862WJV2/EEMffmk714YBRMEfQBdk67r8TASNiKtEcVsADOXgjd4ioHPveuC14LSkdaSzuX7GXlp2JHgq2B5XC4aaMiS38a8MFF8UUUY=
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : ProcessName
+             identifier : 0x20ec19ae1ae06be4
+             internal_properties : CAAAAAgAAAAIqG19Jiwp43dR3KVVFFFlSpTS0Ay9F2vrAq704NkHPA2eGlxkzbnJ5nNUBdG2J98bWBpxIzPgIjCXK6bNS/G9GPs3xhLH26B/NNIRhqvolxYde1Tc95WvtTQp+9UFPKit7C7mjpqsnD0Qr0IIqeUKuRzj3I9adAlV5KMydTKjwUOSFxcWDULcJjl5kMsZvhv+BHOX3cSWB1Ftang7qDJjBRWlm6ztaqneMTW9giv4sls15dI=
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAABjCKwxKTf47CXImxJaCCrzug+Hn1myr+4Ns7BgwedaPOa7CiVb6ss7zgAs17dJgrpMHrrjRMv8eFXB+1pO3WwILQQNIfIdUZ4KaZ2O5lWf1Vy5tWqXsEY6UEtKZPCee/7ySgEtR2L8NzAdVeZoBtKrc+M6FDFK7YKXPMQ1Hz9h7TCq0vHxrQHCvS4DqfeIbRwQflapmedLSrl6cqoRV8FsFrjK1OtgIVbnmNgiZYe3Oi9kCs7LnmfYYApFFmcJqV921P1cXgXiVHbSxVj41erVmLymG8R5mFGmkkNEOqSdgpZ2TjAWCOfjiweU4eMXv6DFDR5BVCllbWBRWNPsE59Kt+rylqZ27zcqrAEW7cUl6x7Sf0rFtLHBME/pmX0vCJ0RkqV7myBqKeZbNfCH/qLB90QGx5XFbEAfbdgu9PKkTxDLzEgx2KuQVl/oYZ21QzykDqGP1xffv4lcefKKWnJvTps8GXS4jwjxCEutzfdSEFH08nAjeCEV01gccREO4eGW1Yx56csaEnWggLHA8i7CjbmefQfl0eHt/BbfobZCLkGA6rt18m0s2+hRjDpeBOrLD9414YbTXwR63puwOIFJhtkO1E2DahybWpg+8qxgbge2YLW/X3hIZcfAXMk/UzECxukmgFT7EAWgqpfCiZc+aMJz40ctaHEdwqsPfgeBtf7Kxm/5PJ5Z9pGx38YqGgXA+QJuJWAcuvTYh8GNnLglqex04UfIcdiuoRxDG4Gt5gRno0Lj/jdJ3ObSwgM9ClfARApo2Pe3UB2TUWWjrU+a8YyrFYkL5Q8Unfx87II3wYJ1Ve6BJGfxArbK05MBLs6HWwhJZ7Xo2da2UB27TdAwtipSmW3xnYuzwvlluxeZkAQmY7CDGk+b1/oJCdW9a4QziX6UL/CEVPcj5TqMaLKA9miPgPP2IEieaDmwzp95WBucUw2jPTgvRVFyxZU+UE/pbdQDkgg19988mKGUK803izluGQ==
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 code : |1+
+                  MySelf..Ellipse = ellipsisEnd
+                  
+                 type : 14
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : User
+             identifier : 0x20ec19ae1ae16be4
+             internal_properties : CAAAAAgAAADkqyL4FHib9iOg5wJ0sjgUa6sGk/VjpeNXJRWCTEsWqhSXld4yQInft3HbKIROELymqR4PKOUlfZ9uqdCyoJNyXkkTH0SFQnOZOeAAIkv9+hGx9j8Wm1VxhzOB6vk1jBYSKQuHptpBpGggmUiA3xAcxbGua4T86Z6CPPZgQzk7G5CWX+MIsLz9Ub+38nnDuH/IK4ENSqfQ3UgaNZ46ImmhUA==
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAABjCKwxKTf47CXImxJaCCrzug+Hn1myr+4Ns7BgwedaPOa7CiVb6ss7zgAs17dJgrpMHrrjRMv8eFXB+1pO3WwILQQNIfIdUZ4KaZ2O5lWf1Vy5tWqXsEY6UEtKZPCee/7ySgEtR2L8NzAdVeZoBtKrc+M6FDFK7YKXPMQ1Hz9h7TCq0vHxrQHCvS4DqfeIbRwQflapmedLSrl6cqoRV8FsFrjK1OtgIVbnmNgiZYe3Oi9kCs7LnmfYYApFFmcJqV921P1cXgXiVHbSxVj41erVmLymG8R5mFGmkkNEOqSdgpZ2TjAWCOfjiweU4eMXv6DFDR5BVCllbWBRWNPsE59Kt+rylqZ27zcqrAEW7cUl6x7Sf0rFtLHBME/pmX0vCJ0RkqV7myBqKeZbNfCH/qLB90QGx5XFbEAfbdgu9PKkTxDLzEgx2KuQVl/oYZ21QzykDqGP1xffv4lcefKKWnJvTps8GXS4jwjxCEutzfdSEFH08nAjeCEV01gccREO4eGW1Yx56csaEnWggLHA8i7CjbmefQfl0eHt/BbfobZCLkGA6rt18m0s2+hRjDpeBOrLD9414YbTXwR63puwOIFJhtkO1E2DahybWpg+8qxgbge2YLW/X3hIZcfAXMk/UzECxukmgFT7EAWgqpfCiZc+aMJz40ctaHEdwqsPfgeBtf7Kxm/5PJ5Z9pGx38YqGgXA+QJuJWAcuvTYh8GNnLglqex04UfIcdiuoRxDG4Gt5gRno0Lj/jdJ3ObSwgM9ClfARApo2Pe3UB2TUWWjrU+a8YyrFYkL5Q8Unfx87II3wYJ1Ve6BJGfxArbK05MBLs6HWwhJZ7Xo2da2UB27TdAwtipSmW3xnYuzwvlluxeZkAQmY7CDGk+b1/oJCdW9a4QziX6UL/CEVPcj5TqMaLKA9miPgPP2IEieaDmwzp95WBucUw2jPTgvRVFyxZU+UE/pbdQDkgg19988mKGUK803izluGQ==
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 code : |1-
+                  
+                 type : 17
+               -
+                 type : 41
+           -
+             name : Memory
+             identifier : 0x20ec19ae1ae26be4
+             internal_properties : CAAAAAgAAAAjD+TIl2n+raM0pAX4jkprgW4KAvDIK/fCSWMiBwoMEIqD6ctVXk6I3RJoDW+hph8mz2ExEn37Ax3DMacuhbBdf0Ocn14WUaCN+2D3TT1Znnrv+8z8G5qI/KA45u7ARYth0Ghl0K7EURRqWo3wC9ORDinUrIjp3xlnsgZsx9tO2cD1/yXza/inUOVRT9HEUDN2ljKwFXYYLvA/QgAeKjJ2nIlcc2KSEtCycHbtD1hUxp1IN5Ddhikq
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAAD8BY3RIWgcHa3dEmOR9r/ytL1Fd67Fd209p0+bn1MN+xvYEHY3B+PwRmoy4EDl1jrNoIXphJ5C8/B05GvfTVkbatcbn7SERIoB1/LyUYO4hw7GKfXMmTVz3JF1MHhwZOBq0aFk8tSfVW1Eew/LQ0dddz7fjx6r6rQFfNCOEp+a499VYGQameolko9SfuhL8/uX/kdPdzfrLTaUOsUwl1lhqRg7F5aKNQzLRZaFR2V8WkSMb9ruXvjFdVno9WQ5dDDKxxCdtC3bhLZcJZQ9hyhakmalNNAR9giKrzlnfSxoLn7clnoIjzBNWzchjI5xsCPZDqYJKr19gybWyr0dtoQ0ADQnMUq9bmqyRhxgZIOiSC1bz49gu7Qkh9QgvxvkwKMCrsOizL0eXzZ8C6kxoGjYEcLHS8+EurFlWguK9Cz3No4yxxf4z1Xddnr9U9gz3MuLnnu62HNz+YvnRR/Z4rdXrnYuXnc0FyNx6w5CGGWGDMSWgVKqKZ67G2CPgp7/np+mvakvMz1pCmYHtctrxXVYbUExTZmHXumil2t/uKVvVhmoeV+ZwgAMRkXSvK/vi/7x3W0DWdICiQUh31f1aVJvsm3d1iW3jQ5S+wc8B+ElOOkQnStBKWVaMl6PBv7cZE86VmxiqJhkEoydT1tHZlqUCqSIrblndd+q9aCv03iqzb46PVd1HJUfsY50+3vLX2WSs62mIZhphEtd+ONKUfUH3Xgbjf9MJli3KNV3zohA+GRXfJxN4DbbtXmnhEakI+9IVGd64HteJhyoqHug6mDAT4qWW6N9LF85kCHuf03U2ey/pKxJwACHnc8dD0IQ64yxVdv3gRc3x6nDEcEUuu1oHhLtjakR0ilWy7oPROByXsqMetqFtP5FpIHeg75WbBRVO2XO8WofAG4EmpqdCZdkBjAknIOy/VJT2/Zat+COkJ02jtX5ayHDFcZBeQvdQcYzqak3P9cY7bnIEK421bM82VmhBuLz84iHoIYc/lDY/5lN19lw0fV0
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAADm862WJV2/EEMffmk714YBRMEfQBdk67r8TASNiKtEcVsADOXgjd4ioHPveuC14LSkdaSzuX7GXlp2JHgq2B5XC4aaMiS38a8MFF8UUUY=
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : Priority
+             identifier : 0x20ec19ae1ae36be4
+             internal_properties : CAAAAAgAAACcm+FYiHrgG9s0g0NT7QAyv5GodbpQDVU78HuEjBSrj/9mldI8lHdP0mJzP+OWvAsmezfaGV88NstVpmBzggPYZMYO/RgVNuQoLgDtPvN+nZhiiKa6Ze4cmInFFbPM78U8UPj2Cd5Nho6yYRW/dwOYRuSx+z5u8p5dhS6XCi3WOzlfUX3xMq3tnjVFTBPZZXZw9B/BohBpOz9I84m3yLQcbobhZcutoTh8tX0=
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAACdWOVC4vuGdRmstSMv4qZe5HY/ks3huDEgkxKpChBgz+ysmID3dau+6oRxk0jSeI7SWFc+Fk/p5rWuSfnwJKIeWosGKfByAlrF5DGXuePQsSQbxCNWj1cgATIcEYW5iOpFAdduH2l+MxBiu/XFuyAnLKW/rujFGU7nwZYuOyNmd8ZnF87oDAtoYrtrsQ39Vkboz4BI36TIVJbaaOP4CZdjGL4w1KliPf9VUm5daZsEaCWTCVD0LywwhNIh3X2KVl7JuxZOa9LukZ/p6jC5ePxPi50esnDsXf7kmgK01yxRA1ttaiDHNLWBn4SMjs1O+xT1pMFQp9DN28Ui6VUXyOuqXPqB9C9Q2sYCi3RFJV0bYaeZ/GEMVnZT3y0seX/JVuJMSy9SmlekGJFma40vqEUogKS9QdCjr4QjwSg4jyFjSrOCq3fGTnEpwBxVUBKoEvYD4OSlvI9SHDZVmug0DNSx8W2smIc1AqNfe6CQAJPJjOC9eMEOvq7LybxlCMzeTh+J/3SiuLM1Rn2eyy69PA/SQHvGQnS5apnpHjea2gidJoqA3F7u5qZCAXD0wRf8Fb7qvQpwoFxqJYrmFcCvdGbD9U/Kp3wFtQYtZv9dk0ThuJpYbLK2i+2U9ZGB3UIDjk/vaitBrVq4+Emaq1aPRdQ+P/jfaHBBtWN/KkoOU4+sB5fqQMqkHKvD4B38tLOEjyuLy173pASHkuha+jDI+H9dNHAiBGQcjBLIiZvg8osWbFdhlzscknLVxCjVJapNAdsDrvZ543V2LI1J+lJqR7JYet53/J5L5OcYP717mVz0wUfp67/eHhD3eJobYnqH41ZAjSR8inH7S1hib9JEZ6m4RRD6Ig4N8Idj6FoYUtHalndSfZ2IlHgxLRpMLvr1pCzuuzp3RMynjLMpdAlLOIke22y18YZQKT4cBFrvMbfgEIYIPf7k1jzo52gJdvNRzev1huArnO97xLRdJVXnsCdg9A9YCDg=
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : NumberHandles
+             identifier : 0x20ec19ae1ae46be4
+             internal_properties : CAAAAAgAAACZ9aK8Fl0xunXZ5cP7X1aK/l9xi4CvrcSaDp40Y6NZSFjgbC//mG2xgX3kcXkmA30L/Jo6ECk+3N177NK9A6QtZobqmfcUkSNn9RtGr9FHom/4C9m42zN5OVaVl5PfSJueHIRFz098mBsg1gZTKS5JOCg+vt1lqMofV4wUwPpqXwvgehdFwF7+ZMwrL1Htx6RIlJyilBxb40Fx2ntVF1/Ws9RHnwLAxB04eipOMyaG9uwanKnd8VpPMH9MODGKVo1KJxmQDAcflljy
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAAB8Dq3Mq9akZGzfJ1jAsuZsmtYcbzMHT4Zyo9BQGF/B4lO5XS6AY7fR4qihzTnqfdNeGmREjoekEtdjY7B7a8Y4TrNC7sVitTpSXMfDJ1qRprrc8/+Ci5oNFykJqUbAWOtiRCxA/4SqOjoOzeAC2kS0oA5V9XYCzTCMbLsk/Wfg8bCKl6aiDcVuUSH/V9FoKLFWCjGaVUIjfz6tpRIzIGYIqxdgZPoSLQ4pxPkvhHbQ2/JufYfF56aLPelvhXp+IUDnIYHd3+43Bu1McbTG03vLxrbQSaWxLgH7NB4qwDAtNg4/IlAeJYtTi6saAVVkCcnPkHz1McftI5Im7ZbhFx0cf8uDFmrWFNxSlFYD3/kP5ly2hBVzA0Q+qd0j6QUlJI0PJLietyqA0VnIbq6HAuDPCQzyom4KG762qj5UPQ3n3uYd5wlxZ1TgsGwS9du1G/NJ1Kvu5bUPjohXjJQtvDJWWkBn/Aau1UBCratMr4tRjHhYrhSkmv5+YiIQe+oGWqPBooaHYO+dA6jGkIMfjrlsbsDS5WaHGDLAclTdkkSNIFCdpDsyaDiFAjTNBi2UqUi4WlJHiO6UCtFymg9Rvki9e8QE5hK7CyuQNNicg64jaBaPXlEkcSNpPKViBjoR5B1ht9E0z3q0hzJunJm5kVzMkbVvDUyTL2rU2vvfhzs0p/s5Tv1GqFvwW/vTl9teiUPn+jiAzvgXc39u7UFcCBvdIJWkO8KEyL0FG8bxRC3o0If4g9yCrDTIrRQ0RDqhWdPnYYbWh/cQt4YtI23m48JSwCnVR0LjEBT7VQoWK+52TX9UYZTWSBrO8eYylQSTM45UvlyhUE8p5LMi1PkQZf8kdSOK9ST7DsYA0JPDTAcITAFpbZBG6GAmHAZnkchJxDjeknycPNzbAYJzcXRj5Bmu91/V1lLmb0X5rDnomaW2dih7VVf+N4MgVeNusWd4kZT2Waf9y5KwpXtlZ2qCQ0kgT3FJRYJvt3RTjcUphVjVvQ5z/w==
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : NbThreads
+             identifier : 0x20ec19ae1ae56be4
+             internal_properties : CAAAAAgAAABYtH3rLTji/w7EvlTuOrlnXeIucTtSIiGpecdfhU7Ujd+LE/Ye35r6W2LnpBp79h5WcR+hqVD23lQGTNlEGvRv/3+gQcEgA40fYqvFXrWgXbH4WfUy8XAVUhjQ+ljiUnbFtP5G38JmJAPKNPECsMQD2gNhl7JawZbV4BomnwWxOfOG1JUBCJjkGV7/c35ZhtJP5E1YhqLhacfN4E0Na3M6ER/iPBfLUXA3KfmPfKRWiib+QnORFf2in7YTkXrJcfI5bthZNd7o4Zex
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAAB8Dq3Mq9akZGzfJ1jAsuZsmtYcbzMHT4Zyo9BQGF/B4lO5XS6AY7fR4qihzTnqfdNeGmREjoekEtdjY7B7a8Y4TrNC7sVitTpSXMfDJ1qRprrc8/+Ci5oNFykJqUbAWOtiRCxA/4SqOjoOzeAC2kS0oA5V9XYCzTCMbLsk/Wfg8bCKl6aiDcVuUSH/V9FoKLFWCjGaVUIjfz6tpRIzIGYIqxdgZPoSLQ4pxPkvhHbQ2/JufYfF56aLPelvhXp+IUDnIYHd3+43Bu1McbTG03vLxrbQSaWxLgH7NB4qwDAtNg4/IlAeJYtTi6saAVVkCcnPkHz1McftI5Im7ZbhFx0cf8uDFmrWFNxSlFYD3/kP5ly2hBVzA0Q+qd0j6QUlJI0PJLietyqA0VnIbq6HAuDPCQzyom4KG762qj5UPQ3n3uYd5wlxZ1TgsGwS9du1G/NJ1Kvu5bUPjohXjJQtvDJWWkBn/Aau1UBCratMr4tRjHhYrhSkmv5+YiIQe+oGWqPBooaHYO+dA6jGkIMfjrlsbsDS5WaHGDLAclTdkkSNIFCdpDsyaDiFAjTNBi2UqUi4WlJHiO6UCtFymg9Rvki9e8QE5hK7CyuQNNicg64jaBaPXlEkcSNpPKViBjoR5B1ht9E0z3q0hzJunJm5kVzMkbVvDUyTL2rU2vvfhzs0p/s5Tv1GqFvwW/vTl9teiUPn+jiAzvgXc39u7UFcCBvdIJWkO8KEyL0FG8bxRC3o0If4g9yCrDTIrRQ0RDqhWdPnYYbWh/cQt4YtI23m48JSwCnVR0LjEBT7VQoWK+52TX9UYZTWSBrO8eYylQSTM45UvlyhUE8p5LMi1PkQZf8kdSOK9ST7DsYA0JPDTAcITAFpbZBG6GAmHAZnkchJxDjeknycPNzbAYJzcXRj5Bmu91/V1lLmb0X5rDnomaW2dih7VVf+N4MgVeNusWd4kZT2Waf9y5KwpXtlZ2qCQ0kgT3FJRYJvt3RTjcUphVjVvQ5z/w==
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAAB19d5Z5hDIi+if5MIDLqq8lq1q513fgvFadeR/Z1oxqM2Q4WXvb/lREPBMCW6QRfeqkBN5R3BG9TLuCTy4LclNWjGvRpH5Xg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+           -
+             name : UseMaxMemory
+             identifier : 0x20ec19ae1ae66be4
+             internal_properties : CAAAAAgAAABYgG8BqVRXHVQ2QKZRc8evpEpNvgvVgDASce77i7sjrV3Slhjk+W0VL/3ck25tXtEKQHzwL9/bgDe6mc604/iExlduBiX8gk7dSRuBeCjnBkEFbMlIS7tTaN/9PdDj9KBSo1KfwMK+Vebf27BawOqiBqSxYfuc0ChClcDZ3Aupa/qhsJnvgIa+CMWowTdq6CkGKtvBtlyY4B4AIC90c3Sv0jKKAgtlKhVmgzh+2NL/smXTttzBMAXLnclQ0rzVLw==
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAAD8BY3RIWgcHa3dEmOR9r/ytL1Fd67Fd209p0+bn1MN+xvYEHY3B+PwRmoy4EDl1jrNoIXphJ5C8/B05GvfTVkbatcbn7SERIoB1/LyUYO4hw7GKfXMmTVz3JF1MHhwZOBq0aFk8tSfVW1Eew/LQ0dddz7fjx6r6rQFfNCOEp+a499VYGQameolko9SfuhL8/uX/kdPdzfrLTaUOsUwl1lhqRg7F5aKNQzLRZaFR2V8WkSMb9ruXvjFdVno9WQ5dDDKxxCdtC3bhLZcJZQ9hyhakmalNNAR9giKrzlnfSxoLn7clnoIjzBNWzchjI5xsCPZDqYJKr19gybWyr0dtoQ0ADQnMUq9bmqyRhxgZIOiSC1bz49gu7Qkh9QgvxvkwKMCrsOizL0eXzZ8C6kxoGjYEcLHS8+EurFlWguK9Cz3No4yxxf4z1Xddnr9U9gz3MuLnnu62HNz+YvnRR/Z4rdXrnYuXnc0FyNx6w5CGGWGDMSWgVKqKZ67G2CPgp7/np+mvakvMz1pCmYHtctrxXVYbUExTZmHXumil2t/uKVvVhmoeV+ZwgAMRkXSvK/vi/7x3W0DWdICiQUh31f1aVJvsm3d1iW3jQ5S+wc8B+ElOOkQnStBKWVaMl6PBv7cZE86VmxiqJhkEoydT1tHZlqUCqSIrblndd+q9aCv03iqzb46PVd1HJUfsY50+3vLX2WSs62mIZhphEtd+ONKUfUH3Xgbjf9MJli3KNV3zohA+GRXfJxN4DbbtXmnhEakI+9IVGd64HteJhyoqHug6mDAT4qWW6N9LF85kCHuf03U2ey/pKxJwACHnc8dD0IQ64yxVdv3gRc3x6nDEcEUuu1oHhLtjakR0ilWy7oPROByXsqMetqFtP5FpIHeg75WbBRVO2XO8WofAG4EmpqdCZdkBjAknIOy/VJT2/Zat+COkJ02jtX5ayHDFcZBeQvdQcYzqak3P9cY7bnIEK421bM82VmhBuLz84iHoIYc/lDY/5lN19lw0fV0
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAADZCUI9UuS5y+pHvDaDJpO8B3ALXft3Hh3qIy5P8RLzsPca9d6QhhRsT7XZ5BnrylQJ7fDGk3EMAW3ZpBOHnL7UxqUb6v1Vsg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+               -
+                 type : 41
+          type : 9
+          controls : []
+          code_elements :
+           type_code : 9
+           p_codes :
+            -
+              type : 35
+              enabled : false
+            -
+              type : 22
+              enabled : false
+            -
+              type : 24
+              enabled : false
+            -
+              type : 23
+              enabled : false
+            -
+              type : 25
+              enabled : false
+            -
+              type : 230
+              enabled : false
+            -
+              type : 241
+              enabled : false
+            -
+              type : 263
+              enabled : false
+            -
+              type : 262
+              enabled : false
+            -
+              type : 222
+              enabled : false
+            -
+              type : 223
+              enabled : false
+            -
+              type : 224
+              enabled : false
+            -
+              code : |1-
+               
+              type : 66049
+            -
+              code : |1-
+               
+              type : 66050
+            -
+              internal_properties : CAAAAAgAAAA4G+YvQ/9myh37yVR9cFwAuoIIekkVwAzgBRf+TGjzLnabcr6yFM35niRQ+GIeD5FsqPRNWdOd6ZEnIvqJAKKY2DsAzID35YlYK7T0CNnexasBJ7bC8Bqpu3y0nE78yJau3FkyVtwMVVzi3wA3zeGBWGO/RRSwp5l4YRXU8dFobOJiugM5uz0xW4WQCFbeyBCxoTT5Xb8kWtJXZv9hu7haPFviiN2HFSQ=
+              code : |1+
+               nRow is int								// Integer containing the selected row
+               MyProcess is “System.Diagnostics.Process” dynamic	// Declare a .NET Process object
+               sPriority is string							// Priority of the process
+               
+               
+               // Retrieve the row
+               nRow = TableInfoXY(MySelf,tiLineNumber,MouseXPos(),MouseYPos())
+               
+               // Select the row that was clicked by the user
+               TableSelectPlus(MySelf,nRow)
+               IF User[nRow]=“” OR ProcessName[nRow]=“System” OR ProcessTable.ID[nRow]=0 THEN
+               	// If the row corresponds to a system process, idle or if the user name is empty, 
+               	// then we have no rights to modify its priority
+               	ProcessMenu.Priority..State = Grayed
+               	RETURN
+               END
+               // Update the priority options
+               ProcessMenu.Priority..State = Active
+               
+               // Remove all the priority marks
+               ProcessMenu.Priority.Real_Time..Checked = False
+               ProcessMenu.Priority.Real_Time..Checked = False
+               ProcessMenu.Priority.High..Checked = False
+               ProcessMenu.Priority.Above_normal..Checked = False
+               ProcessMenu.Priority.Normal..Checked = False
+               ProcessMenu.Priority.Below_Normal..Checked = False
+               ProcessMenu.Priority.Low..Checked = False
+               
+               // Retrieve the priority of the current process via the .NET GetProcessByID method
+               MyProcess = Process::GetProcessById(ProcessTable.ID[nRow])
+               // Retrieve the priority of the process
+               sPriority = GetPriority(ProcessTable.ID[nRow])
+               // If the priority is empty, then an error was returned by the .NET class, so don't check
+               IF sPriority <> “”
+               	// Check the current priority
+               	{<§$0014§> + Replace(sPriority,“ ”,“_”),indControl}..Checked = True
+               ELSE
+               	// Gray the priority menu
+               	ProcessMenu.Priority..State = Grayed
+               END
+              type : 66052
+            -
+              code : |1-
+               
+              type : 65541
+        -
+          name : STC_NB_PROCESS
+          identifier : 0x20ec19ae1ae76be4
+          internal_properties : CAAAAAgAAADYyGY638JDWGH8R/aoDGeH7s6o53JOTmMvbykhcpRgcEEDoWxHAcqvnXxtD5SINWZtzUVTJVtHRyr2Y7NpmUCEq2VTUAI/ZBPGPtknCk3uAfpzw0PEUKuJjBFN13gGZC+SfHDrCqxKrN/k0khkSOFRlTTqE4jLGVyU/mFKGQ6c2+5tVlJfeWRTowysOosU2ehd3/Y21MP8IzQbGbHFQ5eQrstU1zPRDDa5q0s7BPLabqOs/sTYjI9+8WpUj6ljUMaEiC1FlD2YJqt1Wh4SVIJbWxK2cT970h1i3+hOUw5R8Oge1rYwYsPi9R5whJ1ekZuR/6paWuv14Ll+1P1Ng+HrE3ks9b7MIi+NnSxZsjPewfLmOseHG05bJ6P94uBmEO9gXgHkHN3TyjO2XmSPPhh9iRcHd3GroG2wfEMxQO2WmTjRjhEWjw886hweNrb9tyL8dCBWKlqn9lN1wCSLaikt3NbputQhy7rzuJEzGgRV6tTi+V0+hMM=
+          properties :
+           x : 161
+           y : 441
+           width : 110
+           height : 12
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : STC_NB_THREAD
+          identifier : 0x20ec19ae1ae86be4
+          internal_properties : CAAAAAgAAACvf6BDhD4NYed/KIRvmOUpOuA++N2WwRigRAyytmhNhsLQx7QxgSLu8RJgXs/bGRe35ej42us2Na9RCYVKTF3YwqSRrQ3YU0qAsJ+nxUs69XvnlaSIo/fWU3htq8hZbRE/SGIDHZVbeo+IgCnoHCepmCwK7i2PCZaOhZeeUneHuEGn7BeYV4+OH6kS4d6R4c66XRgAZIL7Y3rF7JsHzWMjVSxAl+ozkVddNjqd1bERPSSFFL2Rn0xZl7O28UFpzUyyozGqgGMF4hEJRYMOdZm2XKTGkJattlhnNIV9enwN3kW0F/8W83b5Kpz/xKFFLzslZ2kLu2DKeZu9xnZeeSF1+/GDwMN/otsj1/EV6FNvIyVngIKpkhFrmkZukssxU+/dw61LEMarO6DBpng6XA40WKRVsIX5IK3pIeJqORq/wHp2Zo6lz36rwefHS1b/+TMXXo8+uX0OapuUVg7PfFmjjqPUBy7e2UjtAGhgEjX8MMJycZMH8zQ=
+          properties :
+           x : 161
+           y : 458
+           width : 107
+           height : 13
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : STC_NB_HANDLES
+          identifier : 0x20ec19ae1ae96be4
+          internal_properties : CAAAAAgAAAAfj1AzdIuEL/y+CdORK9Ksd1WZS6DR/utL1VMMeH7/7O7tU6If5fSGwYC2F0J/Jl/+kBORIAXoc1maMhWQ4D1qgppJrNFZCGA4Yb1d3rg4vz+v+XWjWbMk5yAlLu1k5Ws2PoMQchZldT8ZQcUREeuZ/W4AHtLaWb9dcEmhh05+Qr8WtBvjS8UM1ImMNbPYQVVoW+7HgSXzT14JkPbv+HswveH243CAX87rffdokj3bP/CxSloMU8dK1378xYsyvCab9w79tj88HGKhQmPQl9qJQqxPKDsDsHyok0vlioxFvswE/yMnhc5fbMy0D2fXBHL+gontkAEPxUfcBzHiLW3pg4cHoHeng4zkOpg9apf+ZjzjuGPUJ1Kcyyz5C2ljhlZwBI+zYML+7xJU2JRHr8+2oOgh5DPh6G+3eL3n0vpdKAoSu7GIGIFRiFL73lEWguSoeUJxpPlIZDH6JJidipk5ZHs8oXgImeLz5EXjv0DTckTi4SN3Q4Q=
+          properties :
+           x : 161
+           y : 475
+           width : 107
+           height : 13
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static1
+          identifier : 0x20ec19ae1aea6be4
+          internal_properties : CAAAAAgAAAC1Nx8+WMGdhrBxGZv1hSg5y8vXZPkhB0q6vDBEPKy4cXpEgE9sciQz+04rfMvKxOaNsWDpBbqXhcO84umDtJtrdLg5/DQWFxY+6KozIWO1MZ8hVh6wavdRSIaZzjrRZ65LUoLseAqbHrKpyHkuUa6fEbnzrUQBt8DNBYRSNxc/EYbNUwb6OUQH0RrVHxfuC247DCnSTf9dF5DhX61dWDbIBwrWJfsGDcpUg94/5xjQ6gk/Ee3Vm6psXGItz8Ki3AICs1oYroLlwdaCLkkSYE73/3huOfzvfRqvVmob9oeS8P2/HdY2rTdxZK5dPZ9DQTaq5P3hyYavOjHlruiEqsVECLOKLoy7OiuD2QTqcXzmGXszeqh+EymGIRb+D5HLHCiSsbJ6wHCryD3MJJacZx4fAWRlnj4T3K61Pqfax3HcKwQX0yT+abuOMJH5g4MSrzz+22738GKE6XJ8yrpcjRZOptlDM1J0ENtt6PTKLg==
+          properties :
+           x : 85
+           y : 423
+           width : 190
+           height : 74
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static2
+          identifier : 0x20ec19ae1aeb6be4
+          internal_properties : CAAAAAgAAABLhQzzZ/icI0VNoKBI6/sj0JXCYtDy+24lCpZInltQQsvalYvd53IpInaLdpY8ycab+GE7HhCxHdg0Lu7/ev3Q+WEOMiJpeAgSUVLUwuvVeFHfttipzKcvO3JZgVyMoPZnFJAeZoGeo5RrS96NAy40kVWkh1AbXECssjB8zosOHwK4I5xKT/wGaHHseOj2gaJmoFXSU2JoYFxnT7FNZ2nHt99QjBFq/NTajHAvxXFxF6B3bMxoIC+tFUiUbH3K1QopZYbHJ7m+fguMohpPm4HXZYPR3YuXqvKEs/WPp5pb562VNPNG3RPZiVaVNl0z77BiZFdqhAOm4YPdYxfWrTArU/zZt83YSMLG/MxslgoQctAVHZKQFvoHGTJEGwB+FUf6j7Xs/HtTLBksU+WpJ/sNlc/QzHutk8CpAswPxNLINDuSDNoegwW4iJ46FrpziHP/de1fSedBqaMkOXqEZLoD+IfbNZas1U+ceafZ4TPE+l7a
+          properties :
+           x : 95
+           y : 441
+           width : 61
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static3
+          identifier : 0x20ec19ae1aec6be4
+          internal_properties : CAAAAAgAAAA0j+fnzaDQ+gWynkSiWTAtvCDdDEBeg0lhXTiHU3whk2/JV1Ok0i55ljZD3XEn7TiHtsVXmMidrlppgdyKv4vUyFqcxTha7l5n62QZ5VlQ3dAnE3O2u672bJs60J60mS+JuV0LfWZDnCLWt8cwNMLnOUqatpI/oVU6NHQQBDvIFs8iQJ0kAMLvb4P+3frjnexgySBW8jOp18/w+UAG8BtBBeM0MoiVvE58kIPXtbYER0qckQj+nODQWzpc4g6PvnKGBpWpa8jx732vOy+uvHDS6Geiae/Tc1rbsR6PNo+lIUQDkHLvYSN0/q2bFikLhg2rGUVnabDe0zCdn51LeH8lWVSfq0G/8jLRgefCZ1Y6T9YBXTlrpvdgEc/f63Lw+03NqnA8/PIW+F/9fLPLFJ8eTE8HOMnIipWSLDsaPE+mfS2erA7M7yvhv84Pwr3HQAB6dupe1Dh29v+m4H3w510bt6GK/vLbiWxOVlFyJoz1sHT6JRUmDcMzLx32K8XKcA+lO2pi6YW1L4rQF/NXazxDZnIjp5M=
+          properties :
+           x : 95
+           y : 458
+           width : 52
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static4
+          identifier : 0x20ec19ae1aed6be4
+          internal_properties : CAAAAAgAAACUX9F25Qw59gNX2H5x/+1W+/EDvX7CssN9DbRzc7o8YOCTJl6hAuL9aXcSs1mheHbXXB4r1fdwUvLD8YfmXBPwOIJU3BnZxpUpY77m4O6MwKoOASzj9MMw/ygluzAC8BFiVe92fgP0YklTULWiFDjjQ9cOrJOkMzOD1LRtH7EnHO64vg8g7vZI/Q1dAkKYiWV6Zdp7EOZXTzo4Di3FhQIPnOjrwWSsmaoaD9sq3cYeKE8eit2iTXoHRMqqos9Vl0hu0WsektST8nZRXY2xtSUNyR/Hpb4w4kap/Mob06qECGmR6a7wKEjsPLjHGES2cepq+9QZJItnmXCY9wGoL/om/FbUs0RaOy6X8lNeVp8nLFFLYD2wMcjeqXxvh6FZ1LbQ2MMEG4v5iFHC/LmAuwqHU3keGiZziyOyr1uiMXzPEgyiv9iLIP61vY9ZOkhsEVtzAqnUj/uWCqferUtq25WRyIb2vyL+6laIZHvCxxi0GyLC3IxvfCSW6bR4ms8Ie3yGK5cqpzCk4HFEYDEj0Dix2bt3
+          properties :
+           x : 95
+           y : 475
+           width : 51
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static5
+          identifier : 0x20ec19ae1aee6be4
+          internal_properties : CAAAAAgAAADxn0miKtdzMK4hYTISgLhR/alPetVCRp/b8D2Jsg9bKSMQe2mWkrnlv113AQy4UCtkmtAWhvGILS0IzlWOVySI+UgAKfJ0O8cEa73gBS4eJm43gn9ibkIiWkQCHzv/3YuIy4/gC0P1G9z1MBAafMf7wxXYhrmwKAtsI/0bh7SlpVPNvFrKkrDbIXYJ4HkXlU/eIi7LZlc1CrvL6bRZ20z52FHzT7JS6aknbrJWBHTTuDhSajRyXROEmz+u4+4FgRJyKfnX/Um7URvPdZhZ/ZQn8ll4v5mVGhyZpSe0V9vO+jvVx8xbQbZQh7PsJVNH2plEnx7m+xdLLYKiR0fMKF3MUfwZTPYnd1FhgEa6+uzBSFK7hWrTcWpMpCtMpkn8lvDuXU7DJS9cmWm1B3iqWZI1TCNdbsubwCPbD0323mgF4UCFUxGz3LTw984X/KwlitaZOeVMrirrxdgea51EiB3n+S7BeM/Zhv6QaB5DNaoMDGxe5IM=
+          properties :
+           x : 281
+           y : 423
+           width : 203
+           height : 74
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static6
+          identifier : 0x20ec19ae1aef6be4
+          internal_properties : CAAAAAgAAADQ/wbXTpgI5K+PoESiFJCtWZXOsKg+jFu/UfcQdFac2+NJJSlPmCvhHht4Kpz6fgBLdzdGUmyLxmwJIOfZtKDEFQZoVEQV0mMLy6QInFnpRFLGn2C1+BD3g+/b7fOpTk/uD+Z7CYaZLdg0FW/DZFifx4t/hUJxKPN0Z1gSi7w3B1ZUw742X3ADP1nXBdGAATmh/cVACHffU8Lon6bDCnJSZYek4xexMwf8BNufzQN2HjNGveztoqMnhdGngXFDLp2ptOJpTZqKoEn/24mVxqxo4yK9nxHE5mioDijMVW2YbvGsmrNGTO3hHwmQgxeoIlH2OVvY/Hgyg2lQcIIIPn36qyFDO4nrWPi4dcXjdqfLOzJWkfxS+2QH94u/uKoxtNwOeqNoxhg3mplNnMSnpq4IzwYmCzZ5X2+Dlw9DNcVKKqS8fe1jF8wkQH8H4OPuQG0U0QQgy2tzK8no5JDOVIwRAHSbahP7iizgnlXOQWI=
+          properties :
+           x : 291
+           y : 443
+           width : 61
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static7
+          identifier : 0x20ec19ae1af06be4
+          internal_properties : CAAAAAgAAAD8hIrms54c7pAX0ye1PEVV/gDGCm++gHuic4ThqwRTAf5w3e9IIEBXPVV7wSGIoWdWjHFAy9pLCJ8dKgpKxq/3sxNITkzGawk6urWywrFiOglz63zkPlBGdny3I1tnB8b/uVRpkpZjF3gmRleZYSCIMib5cBqkiHZI+djvIeFVVHAY9JDiJSB1x6byEs2makDJSSSFCnmOragMJWzMSy7JIzIlDtTJsTditIFi0k95jXMtY+q31NoW65FL2sx4+ux9Ci3lVvV+SBjZdf6c3Wifu0QsLWStMMbdMBQZbOR010s8j78lVW8Hsq8S3uxDMG7Kz2IETS9+286qkpu3v1XX+TE8PRhojNgxs7M4XZZj1kLguMyfrGDPIimndb0E4pF6LM7czwnJAFb1gjtw0ZL22nOKHutEQGWSSdkH8udZ0gqgVQpd8Yp+Jd0AlRFQJa7rnjgzdZbIPiPSx1OmKaKtRc3q59nG8QWRfidubZAsbwbtfQ==
+          properties :
+           x : 291
+           y : 473
+           width : 67
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : STC_TOTMEM
+          identifier : 0x20ec19ae1af16be4
+          internal_properties : CAAAAAgAAABGYuEE2ZpysXxZYKeTeWszxo70GWfJgjQZkQsEPSTGhq4NBuWDR1vACluRWpdDjxFeAr+zOtHfLTndvUYoahEyCMQ22k96eWBSLzCssk3B5BTpGuJNHlult8PfzHl/FEJUchDQtsHEeZY8I0HDfAvVFTLRDCTq7OBeenmT9nXEorDfGUjDpkPAY5tKzYDtRbDogWyr51yCXaEc7mRMoLVh0SdG/hqQnV1zkZM/nuiBGKam2swRIaARrWUiOcV8FfVg05PUcW0x2ACt4dP62Ym+wZZ2pcRdc/i6gzIPRtRiZc2GtOyMSSmxZBj9R3HV4ZkXDLJaGaMiw49ScBfa15ws9MlAzSDR3pCSzL0ntiH9rX0nyWbLC+1SHyAW30fn27FdiqCwMQT38xiabQh9oS8tmdL2i+Ydx+0uWy3Wa2Sq44QthU/IKlGiIyUHyRaGTuX512MdltM1+t1dtPQcRxmeMe6YqaujnFYVfMldZK8/fmxLww==
+          properties :
+           x : 367
+           y : 443
+           width : 97
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : STC_FREEMEM
+          identifier : 0x20ec19ae1af26be4
+          internal_properties : CAAAAAgAAAA4a0KLJDEY8XcVjk4wiJcbDZUX3Awvj4mM3TjJRF9YKszBudZoLLiCsAsDZGowIEKnZtOLoAEO3/lRuOdcYjRW8z7ZeSLuBbnqvBvVpetHYMPSiWMxKBzQ2XP5td6pBhxb5RuR5vzGjW5MUgG0gIoyueGc0LwG+a1bLAElOz6ybLyk6oNcb8tFGAXzqiNwOHONemhbnQBliUuA7EslM9n89ryY0PPHC6zG9qzyBUTVOCzlWINLoa2l+csaQ18Ky0HvRXY1CRtXnNk8xReuCp61jkuZDxRDSEumdadMPXmDKz+6nXleX4ZMH50Q75B/mumTNVS/N7JEC8IUd4hqiYfwcKbLQHVyXq0VCaDn3btkVZuidwAdyH06wWicomWcQumJu6rV4x1rYTys1DPqGqyJE6uIkKq7+FXsgPvfPlT0zUA27N4TLtyQGd3oASU3x1/fkRKv8Q5cj1aKK7Q95X6gApKJUo5PzluZ0WzDKy1H
+          properties :
+           x : 367
+           y : 472
+           width : 97
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static8
+          identifier : 0x20ec19ae1af36be4
+          internal_properties : CAAAAAgAAAA8wibN7dqxIJJzpk8f651afLo2b7glzikpN9ghbp6qAFSnoP0LuRlreYi+0msM2CKbUz95v16cK+dXvzLBrX2WOFeBCtS2a7e+6gDzn4zV8ew6Y1dkQgrBzxQhyoO7g6ZZczxEUlWgfsjAdFDsxZ82WzkpfDYuQ36p6pTpC45cbRRMPfWcuOr0MQ96Y9J5Y6iViCqzJMmD0aNV29Rv4+t3/XMyknMACeYZDXqqD7dl3lxPAY5lmRQOZSJ6on1Yn9hy8SfsEgOFY460XLLQN+6dggkGFhzdWNqkCpQ8JpsmckWnF6M2GVYw1uAR/3CN5Gd+4VrVbku73bETssNnzA9CYTRHX48fdxk8WT+ymzj/SpBBLc08gahKcRrNPhiwYuyoRwr43tncGUwKWizvtVk9tCNbZJK/gOFNTL5y6OHFieoA4pUZJEGrWr+hwXcP528bZJ3v1BtMV+yvUv3lqgwMgF0mT6CkxK5Doqv/dodUGIxBkarDwrOKUMs4VZcA
+          properties :
+           x : 507
+           y : 423
+           width : 197
+           height : 74
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static9
+          identifier : 0x20ec19ae1af46be4
+          internal_properties : CAAAAAgAAADQs2Q7uL6FOurwXJHf82B49Tjews2dgP8C/feuTmkLcCk7UJWowS6HbxKDgQTcnfzsOPdVVocNsb8JKwtDJ2uLjx9xSXeZ3e3f20YWiW/BxoYIKfyYTGKvm6QDlMDj0i2DHU7cRdGvZV2RIvZZuooztNJEzNUlRNgrP+5aPDlWbx83nyk3Zqox6lkytoQbnDrKGANL0GhT1DD6yPBb6SHaHEK+8usFAugjJLnjaGl/+mmQft8bXRJeda4xsGLrn7uWxphlmHlxrCLn1s/2BsBlPR/OqLE6sYChxityPW5dpMJm8Iae9mmGgxxwagA+uL625pxlxPz2XJF5TpXJb1bUQPW7tf5gbz4xuzLwD1+StgiH0BBrP4w2zUqjHFSVVoHhMOi7ZrszoC9h2XQhHBhiLmbSfCw7LHGIBdihAUDuf4cVlmRDvybvrQBlbEwrnwrs5TIg6h71/YSreuC1w4OFGZWIK3ZVzr99oz6xk9Uf
+          properties :
+           x : 522
+           y : 443
+           width : 61
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : STC_TOTDEDLOAD
+          identifier : 0x20ec19ae1af56be4
+          internal_properties : CAAAAAgAAADf2NYP2tlmDFDUPAf+VlCYTs9zqlh0BG5PfsFrv0UkOa0Sk7iqzGLJuTboTuBEZ2Xlbe1j//VvpLJMK0e8EEWyLdQJy0Wml5e4FPOiVdwpCUp8YVqSg2CWwgmAU8vraG1350ll77MZF5aowe3eq+W5bv7Ws6+dgtaVMlHnHoO3EUlXqz4rwimLFoMAGTiT3NuyAZV/tbeiv2fWUP9DVQbbbUle/dvNQt4fxtZhtPfqqzGYyM4qk7RIEbgMywJ6IJyImktycSu2vSZ4Zy2r4s/AW1xiKBjnPWiD0U3skvHEzA7PGh4Ur5EL3htwXwHlByKaBAPa2fzF8OeIeb55q14NX9eUcdEaR+pW1whJEJnfVjqNMhsZUk55wBia3EJ640CuKvlsV1kC3qEEuCHXIAPKoP4DYeU8VGmuF1zFl/B4O34divE3rUJ72yCE1eaIUwQqCuo9HGX+d7zHasl+O3n7ae922KCd08yvkMib7Z5WKXojVizY
+          properties :
+           x : 583
+           y : 443
+           width : 114
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : Static10
+          identifier : 0x20ec19ae1af66be4
+          internal_properties : CAAAAAgAAAB/Fm0sge+bCz5+We17SzUC4Cw1ieN104JWeLTTPZzagbmXk3cfboG7UFUw4sSAWLwpRcVE7orpLH5T+xs2vECgMcqsMOpZOo+bO8ayovl53Op+rzDnqCQnQ+cNC21Nno+ac9qnqwaxhayQc0G5JOD302cnPcwxlDvcF4I0wXTD8+7sr6KUg/BDQ3XBj1+QbVV5NRkkWq+vu/rwgTSVvt6GKcNgJ3lp75MYYNF9rzdWPg+qPQzfYs8QGHTU5KBKA/Bsr6VSUJ1VLdB2QCww6e0vIqGcqAzvAX0LoTETkCBpvYjDoUiRP5DCMgwVxh7/F8RN0CLNi/8JIMjvETGLySolThR+KID6V7nPfNrmQfIA/nnVUPXtHlfA0sb8213UNXOplUbJeavSb1Ck5ZNuFdsvyh6+VveGILbIfGb8PvKPhR8/ePrehjdRD46UE97lSfSbWAMhtEJMApAvu/l3uyeuv6tCM0SKG7935Sw36sk=
+          properties :
+           x : 522
+           y : 472
+           width : 67
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : STC_LIMITDEDLOAD
+          identifier : 0x20ec19ae1af76be4
+          internal_properties : CAAAAAgAAACKGtQMxVC3EP3HSG7M5t93mWjj/0gRRLnhu/RSki2Ilb2icke8nG7DfnsfGNw1QBJjPCM4EtLX8qSvk6xOEdJdFJi0xUXBIxdYX65X8KJXUu8MDCQEHIgHLhrhOLpdOeRg7vdcZbH61cTZSqRx+qzKaFEccwEk6MfESDIaDCSjZjiu7nw7tbKCBQlehJTJp9s1e5/x/xpMkLG7sdu4HXUkUlNfjREZn943AE4OuLW2zfi2eVjq7TH+WYp0qzV/tBJ6qN2bJRB0kxQ5NuuoJZFAL4q0qXw+eXaJpFK0q7AwfrR99J9KCPn7UgKpu6LQ43JmTE8hy9MfAJvLuoIqvtxr0Umins1LBwzgrhFre2oT6mqncLJBv5L7+vFhIv+RW4ROxP8N7dgwROdNafkgt3tI+tZdp6l30sGqart5uGWJtqdb6qwFCwfXL2Wdhhk+FBIEU6QR3CX4lHG0zkYcP3TwNUBp8gF+UdzRuKln0fTdFiCwx6fs1hE=
+          properties :
+           x : 583
+           y : 471
+           width : 114
+           height : 14
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+    type : 16
+    controls : []
+    code_elements :
+     type_code : 24
+     p_codes :
+      -
+        code : |1+
+         SWITCH Tab1..Value
+         	CASE 1 // Application tab
+         		EndTimer(nNumProcessTimer)
+         		nNumAppTimer = Timer(RefreshListApps,50)
+         	CASE 2
+         		EndTimer(nNumAppTimer)
+         		// Starts the timer to update the table of processes
+         		nNumProcessTimer = Timer(FillListProcesses,300)
+         END
+        type : 17
+      -
+        type : 292
+        enabled : false
+      -
+        type : 293
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2567196154e38e75
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ popup_menus :
+  -
+    name : ProcessMenu
+    identifier : 0x20ec19ae1af86be4
+    internal_properties : CAAAAAgAAAD9la/78CeChH6VqTOJMv9KcS7COKyDwf9qPRtDUtbqIOttl/SOmJwBACxnb3Vk7BiSGE6WrcZErXTwk9Y4sWd+DurrYQNlswGFqVmBYH7h/vuBMFH3Gz8h87hdcdZaQI3hbDT2pUyiOysTfhh8gqNOWMqd2SHUg3YCRRElmvwNS036sOaaI1fLZ9gLS5ZY0rzUvkfm37MinJSudB7f+Lp4lOjKM8SdPA5AqhBQFS2WfdrUCG9dpXquwU6nrij1/Eqjqc8B5PosF/nGZ4LeG+VY9Ww8q+QmezIJuVM3+ihuX0PUfoh3Bm3QC7b+lbTiX0VNsgtoFRogcomj5rbjb0f5yRSiUQadJkme+mVx/qOTPSFEZTdJyBuh1KlfYCGMloEmv4R0yYne
+    options :
+     -
+       name : OPT_DONE
+       identifier : 0x20ec19ae1af96be4
+       internal_properties : CAAAAAgAAACkhVSaZgILTswD/bvxgmi75HIW3RXcS8rd87LNJrwaYCRlDnV8cT1iWJXqsin7hVDJDmYu4pwZ5STv7eeMS9to09DG5ogeYKhRhNNysSFo5klKGZp9iEclesZ/3bpWapTgMEcYT504qEMmFi+yQAXADFLnRZ1sKbXNBGcfkOr18vJP5iSfyVYlpWtGiCRVc+n9gjC+S7oGc18vbVaUKlID66X0DsvsJBOvu8jbKKoeuhdxowM2+qKj2yfKdnoa9QUDFXMc84EyY+x9JouyWy6VyIReOkN7CFDK0epWHsFDFimJ3tcdQnqTnpSFIKhqfdvVbwopCTCtw0/K5U4qTFAz5824ca99IUgrFJBss9RKQr2OCk2Wqy4BQH3pmqecOVG0mLXedUhsMDd1NEPLfnRRykgswjo6S1OBFVLngsd5i54=
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAC3h5dTrzSCET2XfEPrV5yEXEWm8o+V6AbZluEd2/htLcYS3HG97kE7qLiwmZ+VLDmLgCVPxFImBmwrDdCzUvfRML4mRfBXZgMGngrhNrjsT2pBc2m+wpHwbc/fyTpuZkFNG23bCFlEKIobqbexIWQFs7sZWPGbG7jB9LXQz7naWYlRic9fvg83XNubng1Nde4SqdHtD5F5Ts6PN3G1fShquk9NGDjbDnmjADWvTgtM0pQIHraTbtqHclghEOW4o2QLCaOcP6nnJR/Eb2Q=
+           code : |1+
+            
+            MyProcess is “System.Diagnostics.Process” dynamic // Declare a .NET Process object
+            
+            // Retrieve the process via the .NET GetProcessByID(nID) method
+            MyProcess = Process::GetProcessById(ProcessTable.ID[ProcessTable])
+            
+            // Refuse if the process is the inactive process of the system or the system 
+            IF MyProcess:ProcessName = “Idle” OR MyProcess:ProcessName = “System” THEN
+            	Info(<§$0009§>)
+            	RETURN	
+            END
+            // Ask for user confirmation because ending a process may cause unexpected effects
+            IF YesNo(<§$000a§>, <§$000b§>,...
+            	<§$000c§>) = Yes
+            	// Ends the process via the .NET Kill method
+            	MyProcess:Kill()
+            	
+            	// Delete the row from the table
+            	TableDelete(ProcessTable,ProcessTable)
+            	
+            END
+            
+            
+            
+           type : 32
+     -
+       name : Priority
+       identifier : 0x20ec19ae1afa6be4
+       internal_properties : CAAAAAgAAADhU2ba8DYs++ZiQrTt3HIKFQVvDfvLstr2mNID2ev/dcDIKOxcDg7cU2pYPDYp59tjcT9bAH4QnqTbhFrIro7xNTTpu8pSG3RyfLj/p11kbEv4NQU15TGaUwPmtPXZtDuqI0OMYrbuBTFC1vuuPaEAVLJ5JL3v1pGyc5mzwGprQM7ZrMllc1mF8qzSDglVoUcb5FwIPHTNpMCQNNzPnjibJQSZr1w+pnGjNdF5nmXGVKGzfhpbdVXa1O489tZgE7j/V5nyuub6kI2YZSlnQbYdqq1467HDZpQtH6BfKgw0rX4loVDQ87GSYBfQwyAZH9fRddMQuf5VkmTGwCoxUvNeGPbo0ZWrQqIH/gxBHfN3u7UGM0TZhNLKBTq95lUY8rGGQv4L/yYc0s5BoGI8hgxYcK58nonx+YQz3EIB+L26ZkHb5HlDaKGhF0F9cSFmilCUUA==
+       options :
+        -
+          name : Real_Time
+          identifier : 0x20ec19ae1afb6be4
+          internal_properties : CAAAAAgAAAAzRDNdtLrPADu86qxwWNeKc5Q+5Zv6UNvNssTrpILewbapyN/BVuPIT7veK2Izr87k4h8WQq+Zdalihpmb5SxXNCca0fIw+GCsvS+YTqn6/vTX2KJEvXc/QSCIu+MQGxxF2v9H8oxJQ08caHj676BUWI1OR96ykFLqV44eJnxy7DA2bmiqeXbvmtLLrd6qWQpQmoosig0CS37IFOvMWxPS3ALoTkxfQcSNZCJ10M7qmMipSlsEeP19Vu60dNgUAnq3vED9m/ir4zAMGMEog5Yua1P6hC1eaoB1PmqKw5UflTpLtvBkpoggyZ4bFxGlUyW4lduwdl90u9LGb6Cl2VsUO6lSOxJZWbxopkApYDipCivMERJ/G5AlI8nMWXsXEU/t0F5x0sdYgZZrc8DgeUNnBWgOKPotvdk5OjI=
+          code_elements :
+           type_code : 26
+           p_codes :
+            -
+              code : |1+
+               // Defines the priority in real time
+               DefinePriority(ProcessTable.ID[ProcessTable],1)
+              type : 32
+        -
+          name : High
+          identifier : 0x20ec19ae1afc6be4
+          internal_properties : CAAAAAgAAAC/MR3ycDlWayI3p+dcMMS8Fqa7V7hzWOqsqdvEC9WcFmI9I5TsjqZKiK2oiw1kXMr3BJ2hP6oUBqiShuuqmnZ6y4t0ZO7ldU2144VEd/rxwLaHPbPVkdf/k74Zn03jEA3pMur+QF704DCwhzpvaA1Tdu9cwscWMdIPR3sdxNTiSVz7qVGSehwdyAEHjdR17wozQR+QNpRtL0OoyzBWg9RBPcY/xoTOWjX7ygePbOSp1p15hV74fG1PBvGhyrReNHvcT/wXrgmqEL5nmZ/QArZ9QEtBd4FbnaAM0nbB4N+gcnP5XLa2VrPnJFp/qu7nXKJEakeqCdAI0kPJOGqK5uZUpRMQAVnWncbsJuqIIhN1ZLURTaDlyFePifF8wGTSOYPPxWMf41EujzAw9Gas7qWGyOaJEp/hIg==
+          code_elements :
+           type_code : 26
+           p_codes :
+            -
+              code : |1+
+               // Defines the priority as High
+               DefinePriority(ProcessTable.ID[ProcessTable],2)
+              type : 32
+        -
+          name : Above_normal
+          identifier : 0x20ec19ae1afd6be4
+          internal_properties : CAAAAAgAAADcM3cPUhjzguk+1xUTrTWVGLKHa7GLZeV1GfJrstMyPUg8lmoYtSE0ND4DjPaCQiaZRvhKCBwL8P3lY+krDHhbLbcP5lfbqEYNVHLh+F/5HYTOyuXefznwxiztHJjZfVUiC6o97re01pbB9NKRB+pwg5+UagIqh+Z/MrydkrVIopUrLGv84tjYFmqT1/X60CtMhNod42mo+Bj3Dw7f8nffcYf84psgoU/18G3T2/IRQQLa32uyFKQMNFq0//+aA71bV/0LThBnlGHVk88xawLWMSFYWiu/H3aAu45HPd0N3spnF+5wsXPW5H8QR14bMzoM16qI4i221rb5vJfXJc2FnbDG8DwFUWNmCjUk74TQ8cP3ZR5jcjueJs6WXQOj6tN9xa8dJCtU+YP0HQ0iflkI1Q302y/V8Zj1Sgq8cdjTUA==
+          code_elements :
+           type_code : 26
+           p_codes :
+            -
+              code : |1+
+               // Defines the priority as higher than standard
+               DefinePriority(ProcessTable.ID[ProcessTable],3)
+              type : 32
+        -
+          name : Normal
+          identifier : 0x20ec19ae1afe6be4
+          internal_properties : CAAAAAgAAADXPPXhWs9yRsSqjBuyAlADTM2F9rISWUodw/uli4PkCfzWmAvIdc7delQo+DOBuqUivWx7bKixjyA3YkbZ99UI4hA55hUZ+JixJArc4SvDA1zr1BXhP0mL7q1JwJMMATZD1C4NPriIdSlduHFMgVSNrGj5DA9yqaIwgG+JnNcBLpZEA19NU8JaMrGdhJ5l661uJn3mTwKJUN7w+I3bV5WEuhhWtxbKSNLEaIpl6TRm4ZhHx2aEH4oB2wSIilrFpA0rI669yEgFJ7pZodyZgAgM5T5BMcB08W3+t7HputwIjxlgNyaE40/Ry49NJxV09PVmkqG2l2Wgsv4ZKGQ7UG8DIfXf/Ft/Q1fEx6i+OaDRODqPsOS7TDGZuX2goR9E/W60AfBAU12sdcmmtK+EpFb2vUYMvzNWuHVf
+          code_elements :
+           type_code : 26
+           p_codes :
+            -
+              code : |1+
+               // Defines the level as Standard
+               DefinePriority(ProcessTable.ID[ProcessTable],4)
+              type : 32
+        -
+          name : Below_Normal
+          identifier : 0x20ec19ae1aff6be4
+          internal_properties : CAAAAAgAAACW9/8sBJcGZ104XqrKgcc6nUk9l2aljIuktGzGHwdjTAKqYy6p6z1XmlQUmxTBI//lfWdeliEGmn1RF6NXDrItGPu7xvaza/mlbh6Kta+1guswqgqxB1avBW7MHXwtpraBtYuCPN/ZFS0R5qj7nD7ikboRfnw3lci4QpLDp1kxnleVP200UfkOkuXFRK9MFUg9fj+f1Eakg4VVzzp//BhgtPm5BAEkHOJhubLRbMJ7Yh9UdpUonD1lv4S/C4aca9rarZQbUiby3/LfmCfmHcIBotlVPBlz4OP59fGLLNUXuw+5Ir6s0xzF07/JTY/TQTPRtblO3NlFjaF9tc1acauMam7VdNTXWPy3ihZ45mT2iiJvPKanKM7rbfaROZwxmnyQrzJh0HWu3OnBgJFp/0XwWyFVFR3t7CpUPA0w2xDvfZA=
+          code_elements :
+           type_code : 26
+           p_codes :
+            -
+              code : |1+
+               // Defines the priority as lower than standard
+               DefinePriority(ProcessTable.ID[ProcessTable],5)
+              type : 32
+        -
+          name : Low
+          identifier : 0x20ec19ae1b006be4
+          internal_properties : CAAAAAgAAABjrNkooy6ZevzXWn0twvHn3e1g8DdoWZ+MNp5B+jNaVVpeA75qHz/TuQ1swfBtHE73AT4fH+BfjszZo/2cn3gumItdBhHSswJ/ZKVpJDXcAJgxL3/8Tx1G6+dt72kI6tJvboUlDFzIgpzHwRk1fb+ogymze6BXHclzvX71JBbe79IFUgPKxf8H3A/4Wde8+bhVt+LJnk8LX9hi6EXCYTKoeUn/RSG4qvx/+VqOBJA/H5EaCYPLUyAzYSfrGkaVUKSOIhwcOdlOpTxzDLTHyBcoyHmsQkqNLAAIGD5vCVUQlZp16+Qw4AER5Q3a/BjiVwkF9UljSyBqrMfFPc8RXxT7Bcp67fqxSi+MFCyzK34VQFV9N2abuNu4pGeqfNxPp2X+UxvqsDKga5NHI5HWdcKw/S5Fu5wH
+          code_elements :
+           type_code : 26
+           p_codes :
+            -
+              code : |1+
+               // Defines the priority level as Low
+               DefinePriority(ProcessTable.ID[ProcessTable],6)
+              type : 32
+       controls : []
+       code_elements :
+        type_code : 26
+        p_codes : []
+    controls : []
+    code_elements :
+     type_code : 26
+     p_codes : []
+  -
+    name : AppMenu
+    identifier : 0x20ec19ae1b016be4
+    internal_properties : CAAAAAgAAADKiyirSdLr/OqhIbh9OCPfLT3hxMfa9vhLzB+ZGTLZ2lUOv8m6n2VIL4QXrNRU50vm86fUSsmSMDCZYHMBPTFmqKHPYVaeAgAkRa3dbK0PZN4gl+z/orjdnLG/xHqjsOkcq3M8zNwY1kdhWu2lii4XLZP1WSHGehSVuMwtgr1F6iqjQGho7U3kn7134LyobJuZJ4X1JUrynPDnxCrnYq5ozVNKzFTV8EdLZ6JWAY2vAQcaxMdSHdHHzxJfeT+8edxathNSwraYxq9Y+jjxUV6L9lJR2ak+gvpTc3dS+OmGtKl3GQCj1IXhcJpnIc51/1GQewGufzU7utkuy4b0qqsgVs0p2+zSCRkYhhuk3NwEG/145oSpxUj8E0kQLplHCW6T1wEE37kkPchg
+    options :
+     -
+       name : ToggleTo
+       identifier : 0x20ec19ae1b026be4
+       internal_properties : CAAAAAgAAACWlUGoXemQPpbuGIg40nNjWwZpfKDanW82xgVPVLDdmwQ0Ir40ZRnBAYjLs0SwBcf73liVCUa+CKcaUVD0MWaVAg6G1jetCSDYR3c09I6EO+l/m8LNDb2OOT0QuaD0z/dRsuaNtAjUImbDKsI+JpnSLh+1yr/emSLqqKE0fkFb5qbUgV97ZdYKtjwnIKVcPVYdYKEyfZkud1cjeprVck/N7v3hKipLwCmPcVTZiY4om6IaSCbIe52ZxLTX+CvbaZMklKNF6eL/Y0uQhA40Lg7nMGAhPPi1Ny/1n9OUHh5zIzdjE/0cU1+YbW9ZIJpUwtNIahKLXyT7SMNyjBJGE2P0KZZI942I1YmJkLyr7Q1TBUj4KsdtuKr9kiOA8kqdpVICFVBY0v5HWE1A8RF0sAGBObLM/PYx/a2rp6zRBQ==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1+
+            // Run the process of the 'Toggle to' button
+            ExecuteProcess(TOGGLE,trtClick)
+           type : 32
+     -
+       name : Put_in_foreground
+       identifier : 0x20ec19ae1b036be4
+       internal_properties : CAAAAAgAAAA6PZz5fsvZyl7Z/jRcWa7ezNtiPKtUORSd7WcDiOzK0gcCND6RxoYzP2pDidTWbhQWpYsHbyJF65dGFvpDtS4ofqWN5+pnQrMDK+wQ6JqDRB30vJAYNbxc6FcLSzaDYe4rENR+Du6NQMYBuKLMc+cUdUW96ABmJAf/gpM+buC7C66q4Ex0UK3II6jR4W6Qcxue/ogpuYy9QHDIDPsAsj6QjfdFNuYicC3jw8lwTB7r2XpwCqIRubHlbEu21X+CU8Szjczz6nYt+BLv09dgs8EQMAODVeC6/Pb9jJT0w+YC11F66DTg8BICi5tc2yD0ev0VkUsyN4a8OhnP/3hjsEd1AGw670K4WKNNKTY0AYQc7Gvw9ODRdIW9MO0XyBazlwJuI9sl0ON+DWDomzkAF6IfoaGHv08VI+dbf1aQYhGr3g6vv1xDTpk=
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAChk6TvO9SdxtGa11gsJzYfEQs+nAZX1wtZEOumeGVJmWvG+JhV8lVxkkk/RmxSO9zB/KhkBnoRxcVMT4A9k2/TOhIzpsabEwUvQSnX+42xASDKs4ovPgWUX1d8d1yMPK8OSq5EY1msBMrsHUY=
+           code : |1-
+            
+            IF AppTable<>-1 THEN
+            	// Display the window in the foreground
+            	// If the window is minimized, restore it before giving it focus
+            	IF SysIconize(AppTable.WinHandle) = True THEN
+            		// restore the window
+            		SysWinShow(AppTable.WinHandle,swsRestore)
+            	END
+            	// Give focus to it
+            	SysSetFocus(AppTable.WinHandle)
+            END
+           type : 32
+     -
+       name : Option1
+       identifier : 0x20ec19ae1b046be4
+       internal_properties : CAAAAAgAAAADly3tDrNy/qAfFoho2WP134LRui+J+LaYFwRAbR7+zKib+LR+J/5Qyk9dKRPXYjzWTU1Xid2hLoMuidbGwDeTZPQX2CWscVwIQaENkhXhKQ4g3FhYqWlaG5trMGKxXQ0pCFazoqdPe+lntZ+qDD3pxpE6Px9RJEt300XYsylkZFedrCkjeQ4meUoh8Mnw/5aajHXjghBk+L1WaQ2nnqNfAZwUHVunr8t9rDzgmqM37Eq972KBr1b2RaItnOJJhaTVTyLXvVBAGD/oPW8EGYntrjLa5aU5InalzPQxPzTaZ98xQG69kS3kwDKUtdTk3gXhy7Q0k0k+zm2bY1xq/ry6Xw653k6j1c23q4dtotezS68il43gnr+M9f+FdMbTXZsOAtvTWKilJAKaHm6W
+       code_elements :
+        type_code : 26
+        p_codes : []
+     -
+       name : Reduce
+       identifier : 0x20ec19ae1b056be4
+       internal_properties : CAAAAAgAAAAu/ZlCptgXy4UbsVEhznCA/t8cUcOhcoyjstWZ+8JTaD1dCWWMDjIzzUVVcS0R4JdAOJk8+qxLhHcteZmGvBb3IJD+++B6/WZLg65wHgWOWgZ8Hx3UWCkTt3ITRjWyW/1HFEdaWUrfEIzV+aetAS6tp/4UPCub11EyUm6C+uyIuKmtMqUckmeFfChNnp9Xa2z1fDROvIrx/rLR7k+ZLozd87VKPTRGZFo18ZhWT52KfLpCYUKooFp0J3w87nRAcisQgN+q0Dr0FjsyJhgMxCP6I/MGTe+gfAX+F5iX1+tw/gjMNzW8DhJROqITVirAcpNnlwjBh4Q7HAXSAu+XnxDC8hc6RWvQ1sqabbl/Q5vdk48Vu9+NdKb36TyTxZ8OBT9Xn3sW9sxJQJmKCU3+BLU2clvhtxXwbpzFj4Q5rQ==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1-
+            // Check the validity of the selected row
+            IF AppTable<>-1 THEN
+            	// Minimize the window
+            	SysWinShow(AppTable.WinHandle,swsMinimize)
+            END
+           type : 32
+     -
+       name : Increase
+       identifier : 0x20ec19ae1b066be4
+       internal_properties : CAAAAAgAAADNAaTUdK1RySV/lYZjxEjvXUGcXr3cd11mvoxqVlXh7z9X2Xvfz/cLLH28rz7t3O8eMJdOhRalnXsYnG744y7Ovi1FuvndlnflwNdtZ8IyVEo1WswwtrbYDeJzE2G4VYuz8ltsNgaJ2Yrf2ecOoNn9nsXaUDfq99lFfVRgNzUQzt/2WePdjWj7IqgcrzdZDqaKbOSLTaWYkzpAWKSz4ZA4itMtLmDf5omYSw/V9MVoiTqGZbR8DsTz9eyqUjHunH6By4fSNrs04TYLcYL2XniP760Sw3tFkrY+jwd1lYd5ps/1ROTZOVa8p0IOVd5LZo6YZSl5V1yQYT3oAMpcoWgfAdnSv628ta1Sw1ma9DD/cI9PoTOWd78HsCiae/xX8T3KWwNAeNwIxGzyHoWVGkqVl61AWHoW8ZEFtA+I
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1-
+            // Check the selected row
+            IF AppTable <> -1 THEN
+            	SysWinShow(AppTable.WinHandle,swsMaximize)
+            	// give focus back to the application
+            	// Give focus to it
+            	SysSetFocus(Handle())
+            	
+            END
+           type : 32
+     -
+       name : Option2
+       identifier : 0x20ec19ae1b076be4
+       internal_properties : CAAAAAgAAABrL9VVxnu6tmj3/gBgwXv914rJ0tdh0F5wH3yoVVYmhPCTgLx2L8ZIEqclgWu/moTuteUvUXX5lhu2Id7O2D+rLCxfAKX8cRyI0QEd8vUBKY7w3HgoSTkKi1t7MHIBDT15aObDgvcPewlXFa8KjF1pZgGq75+hpEuXI8WokwnExLcNbGkT2R5WCcpxEHkAj0ZqrOVT4iB8IIXuYaUPxmuXGeQ85YM/R9MFpDSYQmv/JALFl0qp545+Dfrl1MqRLdytNwp/BQi4ICeA9WdMoZGFhvoiTW2Rer7NpOzpJ3wCf/dZaDbF6cVMaGpc7Qzc5g3p00ysK/HmdsUj+8SSphQSN2YBBhabzcW/o49lWg/7E5cKj4X4hqf0bWd9fM7bVZMGekN7oGBdXEpSRgZu
+       code_elements :
+        type_code : 26
+        p_codes : []
+     -
+       name : End_of_task
+       identifier : 0x20ec19ae1b086be4
+       internal_properties : CAAAAAgAAACS+bV9wKHGYwRlkCj0KoAGryERTAqedPwomGAG40hoHEONcBJ0G8RsvLeNoC2OhanbSfe97NJC9ztK1VayRm0KSwQiu3tR/2A2c8qduqZqa24eGjOPLm/+FvfrqBydnPtxGKcMkglJ365SEgBva9ZdBo++YUwaP3FKMaLGJMiQm3lYoiEljA6nQjdwdw38KBs1riJ8Um7GVF5csIJKDj7rDevm+kn4Jia4Cv7mxk9nBLZBKqgX8KB+FAOUEAy/Z3LOT9HnnLaN1k87lOY0OGX2zISZTDuvzDuqlr+otcxpFWUvmYKywzgTI3RwSPMCdn8lf9nrHT5ge707sMyE5rxVM8hfI6/fZVLZPYdr8IWBV/NPMKvROdwo6UHMrFOe/Y52vYkXzqTLEpQNOGpPonUaywPgLztfAfrBhrjOo5adng==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAACQX0w6H50e+PNuE84i98yvmwBRjUQ1lJ4ZQyezFT+GDwe4vNltDddvfkpbmQXiryTXoH/Ps5VtbBcoWnXXqDsjIIvCD/Kmiyh9IXqovQhhJfad3CXdJZ3jnzWnBnRXBumKUXPHjvW6Q4BpgQ==
+           code : |1+
+            
+            // Run the process of the 'End of Task' button
+            ExecuteProcess(BTN_END,trtClick)
+           type : 32
+     -
+       name : Go_to_process
+       identifier : 0x20ec19ae1b096be4
+       internal_properties : CAAAAAgAAACN5vJpRUZUTr9i/APWjW4FWf8ejGFOq0HZc0cGHV5lX/8bgKolLdjrlaB0y2XQHhqa0Np3X9sKFvIC87yhUCreK9WYv3vsJ8ESvFcdsPcI5vxzWe2gSbcAMH/D8lm892HTuOi9Q9gA5xdoBPxbFR4YA3wlQxQEGRf2oOPa+56fk8UFqr637sQ8+48UIYrxbw4qmpIrsEw2nKgzr0ncpmfpzEC7f/jIzuEmUQIhSei+/V67Mu6Jp9IsnMY2Ar/uvbf0plF1Ewp3Zh13hbbQgIsINTztWJp3TQSylTvf2c5D42YOU/APlJiQGTiu5NVTfucvxnXcHhLXu0BjsJwfSoh0tbd2JXf8dW37xEdWQnDSVycuM/7y0iLmdHLy1abQnJNLGvYz6bFysypSgJEBZMBRg5656rzvtB0/9UqSXEZTLvpPfB4q
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAARw8vH3GcUUVTXzGqwbS4kXEl8EKTTi6J2kQ372gELkwB0w+Ztdwodz09bocYQ6QNjbvKHJMup5DplUTa/Uo8E8Op3sGjs8Oto7omDZNZmINU7zTcQ49KThLjzftRWLAwh7GSXmNsKORpDL99W4g9JM3jN83cs8C19d56ddM7t+umKN/4Zo6w6twzBgqkMVg==
+           code : |1+
+            nRow is int 		// Number of the row containing the associated process
+            
+            // retrieve the process row
+            nRow = TableSeek(ProcessTable.ID,AppTable.ID)
+            //If the row is valid
+            IF nRow <> -1 THEN
+            	// Select the row in the list of processes
+            	TableSelectPlus(ProcessTable,nRow)
+            	// Go to the Processes tab
+            	Tab1 = 2
+            END
+           type : 32
+    controls : []
+    code_elements :
+     type_code : 26
+     p_codes : []
+ languages :
+  - en-GB
+ message_bar :
+  internal_properties : CAAAAAgAAABXTzfmSRr6y7fOCmCG1xtmuPpwRCFaUTH4Hlzf1kVA3I8j09Rwq6McwnUWBzyolahxZm19wxU7jPeYssKvprfyQ40cc39IENI/+rXQe1xfJ9uj5twpVotiXhvNk8Pi
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADYTWAvsr3Yo1bFDR6wpAXyy3Ka0Uus5QE1smeHjxhBoo3FZWPU06dVQLke0fbzmE6K1ve6Er6vhCZ3kyCx+AFNmVr75buC4gWt5xBAfA3CeFX/bmSOpDbRk8btQxrMBV6FKRs8Xq1Xzkl0Dt0AEWzcgNhKOU5POv2gsF8hTEU7Ti0EHWIZ13kymEqQSf8Wv3DF7AN5RnOR2q0xxHELWqu9TA==
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAAA77mZP8Iu11NWcPYtVwUDURFNg7Ztt+5UfGSrQo4TfmTpfj5CTmFLJvmuUsnvZGXm5Nqob/TyoG6/feaeALd+p9wyrix9OaLmV40jE8jneWKmY4L7pQKyTXLdVhGax2tts4ZjaBbyKF+Sd2Bq2VQ67Q24WXeOf+aLmCZtAoIZzOzoxN/twXYOrLEbzArVDWQCW10gCF+9coQsLOPZ8ZaFjdHfFy6kLPCNP0ho=
+     code : |1-
+      // this Structure is used to get information about the computer memory
+      
+      MEMORYSTATUSEX is Structure
+      	dwLength is int					// Length of the structure
+      	dwMemoryLoad is int				
+      	ullTotalPhys is int				// Total physical memory installed on the computer
+      	ullAvailPhys is int				// Free physical memory
+      	ullTotalPageFile is int			// Total paginated memory
+      	ullAvailPageFile is int			// Free paginated memory
+      	ullTotalVirtual is int			// Total virtual memory
+      	ullAvailVirtual is int			// Free virtual memory
+      	ullAvailExtendedVirtual is int	// Free extended virtual memory
+      END
+      
+      // This structure is used to get information about a window
+      // especially to check whether this one is not empty (0 by 0)
+      
+      RECT is Structure
+      	nLeft is int
+      	nTop is int
+      	nRight is int
+      	nBottom is int		
+      END
+      
+      sSortProcess is string 		// String for sorting the process table ([Direction][ColumnName])
+      sSortApp is string		// String for sorting the app table ([Direction][ColumnName])
+      nNumAppTimer is int 	// Number of the timer for refreshing the table of applications
+      nNumProcessTimer is int 	// Number of the timer for refreshing the table of processes
+      sTempdir is string 		// temporary directory where the icon files will be created
+      ghUserInstance is system int 	// Instance of the User32 DLL
+   -
+     internal_properties : CAAAAAgAAAApCzx3ZzwtVlFq52jEj37/GatebHZ3F9NxmLNe6GUpoVuOgGC9Wj2hcgnfljSKE3ypHKhUZip9QVnokwT5RzPP5g6/IpLf/1Hj/W27B4FVnUz2T1aLkjFAs/NAGzjQcFuq9uqw7yUQbGJ0lc4=
+     code : |1+
+      ghUserInstance = LoadDLL(“USER32.dll”)
+      
+      HourGlass(True)
+      //Fill the Application and Processes tables
+      FillListProcesses()
+      RefreshListApps()
+      HourGlass(False)
+      
+      // Starts the timer to update the table of applications
+      //nNumTimerApp = Timer(RefreshListApps,50)
+      
+      // Start the events corresponding to the clicks on the table headers
+      Event(ClickHeaderProcessTable,“ProcessTable”, 1529)
+      Event(ClickHeaderAppTable,“AppTable”, 1529)
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     internal_properties : CAAAAAgAAAAL7dIpYUMfpv/8H/o8B3g5e80MPChtk5MHKjuYKKXvd3E0luDb+PnNmDMzNNDeJU4fKooAEBR2mGoRtAmEzLqY8XUIXxlITDwQ0k6Ymp60Pi8dfKfuN1p7/JzpgJt9M9iJ+eulBmDi0oRW96w=
+     code : |1+
+      
+      // Delete the temporary files
+      fDelete(sTempdir + “*.gif”)
+      
+      FreeDLL(ghUserInstance)
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+   -
+     type : 66049
+  procedures :
+   -
+     name : FillListProcesses
+     internal_properties : CAAAAAgAAABoR1IplEblBYh9ffoCnIswqiSLgpwv5eEaFVy4d+m3w5p8/UTc7LslkEUNKfda2OI9jhH2vw1rBfIGNWkf21UPCoKvM5BiULWo5QE8MQ1qoVV4cE88vCCKJkHzenHVu2w8I89mgMS8IX1YTCVD/2GSCYVZbPYS85Q+ZFWQOUDJgX4mmKGL1CMO68FNl6A/B7vgo0pmibRzccR9SK9StOU8gDt5RnDLLAIdVC+qyHckZQFHeWVjRTpJist5CwL8V5k3AFdp3p7yGLrHDMI4YhQ47l0QHPDdmxBZc6xAUK0cl4QF20T7qH3tck1VsF8kH5dBUtn11d9a2Y7CuU1ub2LJFvVr7NqEmkB03+RJ4XYQTlwlONb2TzNUeo5a4WYJ6B/IV/zv9hjw2BBHiaMcsQzSkH8lBhb2XiCn44HP/MUt5cN+IYKCOjaC7ozVsO8VQMOfsRUE4rhD8L7GBL8tmTG+MoToW0ij2b93tI/ytoyynKtNw82zM1NPQ/UbNr7TRgAEvvfL4VeC3C4XxtZrqW+eZfE=
+     procedure_id : 1219377834241387492
+     type_code : 14
+     code : |1-
+      // Syntax:
+      //FillListProcesses ()
+      //	This procedure is used to list all the processes as well as their information
+      //  Furthermore, it calls several .Net methods and properties related to Process, ProcessModule or ProcessThreadCollection
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      Procedure FillListProcesses()
+      
+      // Variables
+      TotalMemory is int										// Counter used to count the total memory used by the processes
+      ListProcesses is array dynamic of 0 “System.Diagnostics.Process” dynamic	// declare an array of .NET Process objects
+      nbThread is int 											// Counter for the number of threads
+      nbHandles is int											// Counter for the number of handles
+      ThreadCollection is ProcessThreadCollection dynamic 		// Declare a .NET Collection object of thread
+      MyProcessModule is ProcessModule dynamic 				// Declare a .NET ProcessModule object
+      pclMyProcess is “System.Diagnostics.Process” dynamic
+      sPriority is string										// Declare the priority
+      nLineProcess is int										// Number of the row selected in the process table
+      nLineFirstProcess is int								// Number of the first row displayed in the process table
+      nLineProcess = TableSelect(ProcessTable)						// Save the selected row
+      sUserName is string											// Name of the user who created the process
+      i is int = 1												// Counter for the loop used to fill the processes
+      sProcessName is string										// Process Name
+      
+      // Save the 1st row displayed in the tables
+      nLineFirstProcess = TablePosition(ProcessTable)
+      
+      
+      // Make the tables invisible while they are filled
+      ProcessTable..DisplayEnabled = False
+      
+      // Delete the content from the tables
+      TableDeleteAll(ProcessTable)
+      
+      
+      // Retrieve all the processes via the .NET GetProcesses method
+      ListProcesses = Process::GetProcesses()
+      
+      
+      // Reinitializes the counter
+      i=1
+      
+      // Loop as long as the dimension of the returned array are not exceeded
+      WHILE i <= Dimension(ListProcesses)
+      	
+      	pclMyProcess = ListProcesses[i]
+      	
+      	// Retrieve the threads associated with the current process via the .NET Threads method
+      	ThreadCollection = pclMyProcess:Threads
+      	// Update the number of threads associated with the current process via the .NET Count method
+      	nbThread += ThreadCollection:Count
+      	
+      	// Update the number of handles associated with the current process: use the .NET HandleCount method
+      	nbHandles += pclMyProcess:HandleCount
+      	
+      	// According to the name of the process retrieved by the .NET ProcessName method
+      	SWITCH pclMyProcess:ProcessName 
+      	
+      		CASE “Idle” // Inactive process of system
+      			// Change the name of the process to have something easier to read
+      			sProcessName = <§$000d§>
+      			// The user cannot be retrieved (access denied)
+      			sUserName = “SYSTEM”
+      			sPriority = <§$0012§>
+      			
+      		CASE “System” // System process
+      			sProcessName = pclMyProcess:ProcessName
+      			// The user cannot be retrieved (access denied)
+      			sUserName = “SYSTEM”
+      			
+      		CASE “SVCHOST” // SVCHOST process
+      			// Update the name of the process
+      			sProcessName = “SVCHOST.EXE”
+      			sUserName = GetUserName(pclMyProcess:id)
+      			WHEN EXCEPTION IN 
+      				sPriority = GetPriority(pclMyProcess:id)
+      			DO
+      				sPriority = <§$0000§>
+      			END
+      			
+      		CASE “CSRSS”
+      			// Update the name of the process
+      			sProcessName = pclMyProcess:ProcessName
+      			// The user cannot be retrieved (access denied)
+      			sUserName = “SYSTEM”
+      			sPriority = <§$0001§>
+      			
+      		OTHER CASE
+      			
+      			// Update the name of the process
+      			// Process the exceptions if the Process is protected, it returns an exception
+      			WHEN EXCEPTION IN 
+      				
+      				// Call the .NET MainModule method that returns a ProcessModule
+      				MyProcessModule = pclMyProcess:MainModule
+      				// Retrieve the name of the main executable started by the process via the .NET ModuleName property
+      				sProcessName = MyProcessModule:ModuleName	
+      				
+      			DO
+      				// Process the exception
+      				// Use the name of the process (instead of the name of the executable)
+      				sProcessName = pclMyProcess:ProcessName
+      			END	
+      			
+      			sUserName = GetUserName(pclMyProcess:id)
+      			IF sUserName <> “” THEN
+      				sPriority = GetPriority(pclMyProcess:id)
+      			END	
+      			
+      	END
+      	
+      	// Adds the process information to the table, all the properties are retrieved by the corresponding .NET properties
+      	TableAddLine(ProcessTable,pclMyProcess:id,sProcessName,sUserName,pclMyProcess:workingset / 1024,...
+      	sPriority,pclMyProcess:HandleCount,ThreadCollection:count,pclMyProcess:PeakWorkingSet/1024)
+      	
+      	// Update the total memory by calling the .NET WorkingSet property
+      	TotalMemory+=pclMyProcess:WorkingSet
+      	
+      	
+      	i++
+      END
+      
+      // Declare the memory variable
+      mem is MEMORYSTATUSEX
+      // Declare the return variable for the call to the API
+      res is int
+      // Call to GlobalMemoryStatus that is used to retrieve the memory information of the system
+      res = API(“Kernel32.dll”,“GlobalMemoryStatus”,&mem)
+      // If the result is different from 0, the structure was filled properly
+      IF res <> 0 THEN
+      	// Display the results
+      	// The values are expressed in bytes so divide by 1024 to get them in KB
+      	STC_TOTMEM = mem:ullTotalPhys/1024
+      	STC_FREEMEM = mem:ullAvailPhys/1024
+      	
+      	// The structure was not filled properly for this information so don't display the information
+      	IF mem:ullTotalPageFile = -1 THEN
+      		STC_LIMITDEDLOAD=<§$0013§>
+      		STC_TOTDEDLOAD=<§$0013§>
+      	ELSE
+      		STC_LIMITDEDLOAD = mem:ullTotalPageFile/1024
+      		STC_TOTDEDLOAD = mem:ullTotalPageFile/1024 - mem:ullAvailPageFile/1024	
+      	END
+      	
+      ELSE
+      	// The structure was not filled properly so don't display the information
+      	STC_FREEMEM=“NC”
+      	STC_LIMITDEDLOAD=<§$0013§>
+      	STC_TOTDEDLOAD=<§$0013§>
+      	STC_TOTMEM=<§$0013§>
+      END
+      
+      // Update the captions for the statistics (number of processes, number of handles, number of threads)
+      STC_NB_PROCESS =  i - 1 
+      STC_NB_HANDLES = nbHandles
+      STC_NB_THREAD = nbThread
+      
+      // Sort the table of processes according to the defined sort order (if any)
+      IF sSortProcess<>“” THEN
+      	TableSort(ProcessTable,sSortProcess)
+      END
+      
+      // Select the row that was selected before the fill operation
+      TableSelectPlus(ProcessTable,nLineProcess)
+      // Restore the table to the same position
+      TablePosition(ProcessTable,nLineFirstProcess)
+      
+      // Make the tables of processes visible
+      ProcessTable..DisplayEnabled = True
+     type : 458752
+   -
+     name : GetUserName
+     internal_properties : CAAAAAgAAADBo/MLhIH9A9b6aAPFk3mMQ9eYBFIjPH+sqS8j9d96w6z7BcPoZfJysw5mR+C2KsOnpg96RO1zvPoGJQfG+CnoefoS/brpdOnERtU3WAZRi2NI85FKAYZBnreFz2nmzycUfgK90qPhXUlkq4yfvvQjzuc7Sg3GgJdScG+70mYAD2k7u8hw9H2GF5hpkPOk9JhUksNF6RDK/T1uMpbP34lFFLTzDjkq4+h/8PSPt1clWoFcrq3Iv7zNvob1zbQjJVhn2Hte5R3Klpl/LnSji0+pTymSw2p/2kBPcsbcV3VrUk3Kzy3QEwBj3+YDQ8/An6N9c0rKgtEZ6Cvo0GQwH6W0yNkOwU76U5sFSvd8t8YtVWYeyK8=
+     procedure_id : 1219377834241453028
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //[ <Result> = ] GetUserName (<nPID> is int)
+      //
+      // Parameters:
+      //	nPID (integer): Identifier of the process whose user must be retrieved
+      
+      // Return value
+      // string: the name of the user
+      Procedure GetUserName(nPID is int )
+      
+      SID_AND_ATTRIBUTES is Structure
+      	pSID is 4-byte int
+      	dwAttribute is 4-byte int
+      END
+      
+      // Declare the parameter variables
+      PROCESS_QUERY_INFORMATION is int = 0x400
+      tProcess is 4-byte int = 0x00
+      TOKEN_QUERY is 4-byte int = 0x0008
+      
+      // declare the variables
+      tToken is 4-byte int  = 0
+      bRes is boolean										// Variable containing the return value of the API
+      dwGroupSize is 4-byte int = 0			// Size of the structure
+      szName is string ASCIIZ on 250 = “”					// User name
+      szDomain is string ASCIIZ on 250 = “”				// Domain to which it belongs
+      dwNameSize is 4-byte int = 250			// Length of the string for the name
+      dwDomainSize is 4-byte int = 250		// Length of the string for the domain
+      eUse is 4-byte int = 0						// Type of account owned by the user
+      pBuffer is system int					// Buffer for transfer between the APIs and the application
+      
+      stUser is SID_AND_ATTRIBUTES
+      // Return empty if the version of Windows is not on NT
+      // because the functions used are defined for NT only
+      IF SysWindowsVersion(sysVersionPlatform) <> “NT” THEN
+      	RESULT “”
+      END
+      
+      
+      // Call the API to open the process
+      tProcess = API(“kernel32”,“OpenProcess”,PROCESS_QUERY_INFORMATION,0,nPID)
+      
+      // Open the process token
+      
+      bRes = API(“advapi32”,“OpenProcessToken”,tProcess,TOKEN_QUERY,&tToken)
+      
+      // Ask for the size of the group information
+      API(“advapi32”,“GetTokenInformation”,tToken,1,Null,0,&dwGroupSize)
+      
+      // Allocate the structure
+      pBuffer = pMalloc(dwGroupSize)
+      
+      // Retrieve the SID_AND_ATTRIBUTES that contains a pointer to psid
+      API(“advapi32”,“GetTokenInformation”,tToken,1,pBuffer,dwGroupSize,&dwGroupSize)
+      
+      // retrieve the value of psid from its pointer
+      Transfer(&stUser,pBuffer,Dimension(stUser))
+      
+      // retrieve information about the user
+      API(“advapi32”,“LookupAccountSidA”,Null,stUser:pSID,&szName,&dwNameSize,&szDomain,&dwDomainSize,&eUse)
+      
+      RESULT szName
+      
+     type : 458752
+   -
+     name : GetPriority
+     internal_properties : CAAAAAgAAACarHami+BJngeaWMtWod/DHsxaJ5ePph7n3frZ8PLnz+aAqO/FTApfuVTswlBJbKjvEDa6O/zyn97xe33b0r5HKQDj+L0SHHDPd96/XXlLDn/xwILbbf8z1slImjOIbvuxR1GVekXmlg4eVD8ek7q/9D7BvguwnC/cTx9++BfmG8BY/eAm4giRIPlInoft7wiVY+9tGUjvXR1mJ5ozc/3ZoMhvrZXOiWZ4EAQ1BemWZYQXkgD4fmQrHS6nRN5AI+hceKsYx/oswgMZRWBZHWsKIoOlXg==
+     procedure_id : 1219377834241518564
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //[ <Result> = ] GetPriority (<nProcessID>)
+      //
+      // Parameters:
+      //	nProcessID: The identifier of the process whose priority must be retrieved
+      // Return value:
+      // 	Undefined type: 
+      
+      Procedure GetPriority(nProcessID)
+      
+      sResult is string								// The result that will be returned by the function
+      MyProcess is “System.Diagnostics.Process” dynamic		// NET object declaring a process
+      MyPriority is processPriorityClass dynamic		// .NET object declaring a class of priority for the processes
+      
+      // Retrieve the current process via the .NET GetProcessById function
+      MyProcess = Process::GetProcessById(nProcessID)
+      
+      WHEN EXCEPTION IN
+      	// Retrieve the priority of the process via the .NET PriorityClass method
+      	MyPriority = MyProcess:PriorityClass
+      DO
+      	RESULT “”
+      END
+      
+      
+      // Update the result string according to the value of the priority
+      SWITCH MyPriority:ToString()
+      	CASE “RealTime”
+      		sResult = <§$0002§>
+      	CASE “High”
+      		sResult = <§$0001§>
+      	CASE “AboveNormal”
+      		sResult = <§$0003§>
+      	CASE “Normal”
+      		sResult = <§$0000§>
+      	CASE “BelowNormal”
+      		sResult = <§$0004§> 
+      	CASE “Idle”
+      		sResult = <§$0005§>
+      END
+      
+      
+      RESULT sResult
+      
+     type : 458752
+   -
+     name : DefinePriority
+     internal_properties : CAAAAAgAAABNn/hQWLIOpcXSxbc4ZT0koHyHqKjZrj0btSVhHbuolHhPWNUAtNJMA9vQmO5oEGWNYZQEdeQedOaQxQUQqcw+Dp0rnVj2gOoMDsOvkhUsfiHn1l4dnbccT78LFz5dtXDpxedr8NuYbvkDWkqf/tvquD8/o0SL3gsXVZlvKZI5IX+oWuI+Zmf0GCJFDB85oWJ+Aym85lcUF5NKMpoOsI0EeLw=
+     procedure_id : 1219377834241584100
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //DefinePriority  (<nProcessID>, <nPriority>)
+      //
+      // Parameters:
+      // 	nProcessID: The identifier of the process
+      //	nPriority: Priority to define
+      
+      
+      Procedure DefinePriority(nProcessID,nPriority)
+      
+      MyProcess is “System.Diagnostics.Process” dynamic
+      //Retrieve the process
+      MyProcess = Process::GetProcessById(nProcessID)
+      
+      // Define the priority via the .NET PriorityClass property and via the constants for the ProcessPriorityClass enumeration
+      SWITCH nPriority
+      	CASE 1 // real time
+      		MyProcess:PriorityClass = ProcessPriorityClass::RealTime
+      	CASE 2 // High
+      		MyProcess:PriorityClass = ProcessPriorityClass::High
+      	CASE 3 // Above normal
+      		MyProcess:PriorityClass = ProcessPriorityClass::AboveNormal
+      	CASE 4 // Standard
+      		MyProcess:PriorityClass = ProcessPriorityClass::Normal
+      	CASE 5 // Below normal
+      		MyProcess:PriorityClass = ProcessPriorityClass::BelowNormal
+      	CASE 6 // Low
+      		MyProcess:PriorityClass = ProcessPriorityClass::Idle		
+      END
+      // Update the list
+      FillListProcesses()
+     type : 458752
+   -
+     name : ClickHeaderProcessTable
+     internal_properties : CAAAAAgAAAAj491BxF6764m1gxDYF3NK8kiYD+RXtY9JBVLxSCGSoYCg0x/muxCHOj2LCVwdABkkTQDjsFWv0Ehzx/LpIhvf3D1Soju9Q9EbCcubKqD6xdPKRTVDVuGQW/uSm+qCXOMnVXHLRV39JPHTEc4ASwlg8wHoE0Q1/VjStynEB51hbA0SZRSjHYb8VMyiYH4akqvZ1ZSCQ2W88QVLJKpQQ7OdzZs4S7TxL6+1AzHq5P+3fbwla1TYfyOxGbxeTtCeIhGWPpDA4TfvrHDScc+3SotNkPBX8kC/DjK0h8pzlzWN6COwmywpY4jOHMz2rBmQMRJNj5vtZwmGePOq/TnuRiEwJQ==
+     procedure_id : 1219377834241649636
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //ClickHeaderProcessTable (<Msg>, <wParam>, <lParam>)
+      // This procedure is used to update the variable for sorting the Process table
+      // Parameters:
+      //	Msg: 
+      //	wParam: Number of the column clicked
+      //	lParam: Sort direction
+      
+      
+      Procedure ClickHeaderProcessTable(Msg, wParam, lParam)
+      
+      sColName is string			// Name of the column
+      
+      // retrieve the name of the column
+      sColName =TableEnumColumn(ProcessTable,wParam)
+      
+      // Update the variable according to the sort direction
+      SWITCH lParam
+      	CASE 1
+      		sSortProcess = “+” + sColName		
+      	CASE 0
+      		sSortProcess = “-” + sColName
+      END
+      
+     type : 458752
+   -
+     name : ClickHeaderAppTable
+     internal_properties : CAAAAAgAAAC3Zl6NeV2bpoich/2uC6nuvcMQTIEQh1S+/mwpIxKII2ShEH1O1BVzX5C6cuhh/hNZZeQMjKlxjN3E7WIx3M7P8FjwrD3rICE/CmDL8A2yiYwxGXOzw9Am8ZpSZAvo6lTaiapzoijGxm+w+lK/lYAStyInsWX0sk5fBRSol9l4DvRnUv/uQJxO3UPpJFCmw3cslAFZwmQaddSSu4KWPzIBHHCxAmPwRSd0b3B3p9T1aoj+88YoRyvoPfAIosd26kUJEWsk4d5koNkPAooCz8x7DfBpLILPsvMnHsRs3YFRTMrHWst+1yA=
+     procedure_id : 1219377834241715172
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //ClickHeaderAppTable (<Msg>, <wParam>, <lParam>)
+      //
+      // Parameters:
+      // 	Msg:
+      // 	wParam: Number of the column header that was clicked
+      // 	lParam: Sort direction
+      
+      Procedure ClickHeaderAppTable(Msg, wParam, lParam)
+      
+      sColName is string
+      
+      // retrieve the name of the column
+      sColName =TableEnumColumn(AppTable,wParam) 
+      // Update the variable according to the sort direction
+      SWITCH lParam
+      	CASE 1
+      		sSortApp = “+” + sColName		
+      	CASE 0
+      		sSortApp = “-” + sColName
+      END
+     type : 458752
+   -
+     name : EnumerateWindows
+     internal_properties : CAAAAAgAAABMdQzrh9zv2Nzw9oRpM4XDYkqhasK2QekNCajZG1cmL26ZA/lwlqihhX0zRWFqC9VbrOhw7HTQbBibLRxPeF67v1lRlaxFZZmMsNurQAPQs0dj29pbcCzOHX9h7+rj5QlBuzsCFR+TNU2qEO3aPQqScHxYu/nKwAyAOkEL4RUwRgDTCGYd4ro0gN4JBJ49T9W91jNVw8QmPpSt4H3yG1thL0acw6QGQWEXM9RkP59djPc7TULT9rXARdNW7y1IfrKGSE8qQwTZs6eEM/vpuEHUaz17mb2y2pQYK5Hwn33+OEFBoP79mXts/glIYkwEl7JbtZmJ6nIPn/fXx/1k9asOEUQmsJUvTFpEik6PBHcZAvU67717lf2F7tckUHzI7NyQxD1jDwFp6uwP2Kmqkdlx5dtMtpFo89I05sMZoBR7i8D5noeWhkoiwD/9cEIuAW4YXbP+StkH/OpbTdZ7RnvxpWtfcFe91wT5h259wM9YhqKQJ58Kb4+ikRsQoBDO2PF+UJ2D5FBDGzmSwlsxi2onq+LB29pbt4gY2yUzBLdVy3/e1CFlo/p1ucL8JhrorTsKUkDB5Cdn0JplrQ==
+     procedure_id : 1219377834241780708
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //[<Result> = ] EnumerateWindows (<nhwnd> is system int, <nLparam> is int)
+      //
+      // Parameters:
+      //	nhwnd (system integer): handle of the window found
+      //	nLparam (integer): 0
+      // Return value:
+      // 	boolean:     returns true to continue the enumeration of windows
+      
+      Procedure EnumerateWindows(nhwnd is system int, nLparam is int <useful>)
+      
+      sTitle is string 						// Title of the window
+      MyProcess is “System.Diagnostics.Process” dynamic // Declare the .NET object that will receive the process associated with the window
+      nRow is int						// Number of the application line
+      nProcessID is int					// Declare the process number
+      sExeName is string						// Name of the executable 
+      MyModule is processModule dynamic 	// Main module of the relevant process
+      nHndIcon is int						// Handle of the application icon
+      sTmpFile is string  				// Temporary file where the executable icon will be stored
+      rRectangle is RECT						// Structure that will receive the coordinates of the window found
+      
+      
+      // Retrieve the title of the window
+      sTitle = SysWinTitle(nhwnd)
+      
+      // Check whether the window is visible
+      
+      IF API(“USER32”,“IsWindowVisible”,nhwnd) <>0 THEN
+      	
+      	// Check whether the title is not empty
+      	
+      	IF NOT sTitle ~= “” THEN
+      		
+      		
+      		// Retrieve the coordinates of the window
+      		API(“USER32”,“GetWindowRect”,nhwnd,&rRectangle)
+      		
+      		// Check the coordinates of the window
+      		// If they are equal, the size of the window is 0 x 0 pixel
+      		// Don't display it
+      		
+      		IF (rRectangle:nTop - rRectangle:nBottom)=0 OR (rRectangle:nLeft - rRectangle:nRight)= 0 THEN
+      			//Returns True to continue the enumeration of windows
+      			RESULT True
+      		END
+      		
+      		IF sTitle <> “Program Manager” THEN
+      			
+      			
+      			// Retrieve the process associated with this window
+      			API(“USER32” ,“GetWindowThreadProcessId”,nhwnd,&nProcessID)
+      			
+      			// Retrieve the .NET Process object
+      			MyProcess = Process::GetProcessById(nProcessID)
+      			
+      			// Perform an exact-match search in the table on the window title
+      			nRow = TableSeek(AppName,sTitle,True)
+      			
+      			// If the row is not found, add it
+      			IF nRow <> -1  THEN
+      				
+      				// If the handle of the window is equal
+      				IF WinHandle[nRow] = nhwnd THEN
+      					
+      					
+      					// Use the .NET Responding property used to find out whether an application responds
+      					// and add the corresponding row to the table				
+      					IF MyProcess:Responding = True THEN		
+      						TableModifyLine(AppTable,nRow,AppTable.IMG[nRow], “ ” + sTitle,<§$0006§>,AppTable.ID[nRow],nhwnd,True)
+      					ELSE
+      						TableModifyLine(AppTable,nRow,AppTable.IMG[nRow], “ ” +sTitle,<§$0007§>,AppTable.ID[nRow],nhwnd,True)
+      					END
+      					
+      				ELSE
+      					
+      					
+      					// retrieve the icon of the executable
+      					// Retrieve the main module of the application via the .NET MainModule property
+      					WHEN EXCEPTION IN 
+      						MyModule = MyProcess:MainModule
+      						// Retrieve the full path of the executable via the .NET FileName property
+      						sExeName = MyModule:FileName
+      						
+      						// Call the API to retrieve the handle of the executable icon
+      						nHndIcon = API(“SHELL32”,“ExtractIconA”,SysInstance(),sExeName,0)
+      						
+      						// If the handle of the icon is not null
+      						IF nHndIcon <> Null THEN
+      							// Draws the icon in the image1 control
+      							DrawIcon(nHndIcon,Image1..Name)
+      						ELSE
+      							// clear the image
+      							Image1=“”		
+      						END
+      						// Create a temporary file
+      						sTmpFile = fTempFile() + “.png”
+      						// Retrieve the directory of the created temporary files
+      						sTempdir = fExtractPath(sTmpFile,fDrive+fDirectory)
+      						// save the file in png format
+      						dSaveImageGIF(Image1,sTmpFile)					
+      					DO
+      						sTmpFile = “”
+      					END
+      					
+      					// Use the .NET Responding property used to find out whether an application responds
+      					// and add the corresponding row to the table
+      					
+      					IF MyProcess:Responding = True THEN		
+      						TableAddLine(AppTable,sTmpFile, “ ” +sTitle,<§$0006§>,nProcessID,nhwnd,True)
+      					ELSE
+      						TableAddLine(AppTable,sTmpFile, “ ” +sTitle,<§$0007§>,nProcessID,nhwnd,True)
+      					END
+      				END
+      				
+      			ELSE
+      				
+      				
+      				
+      				// retrieve the icon of the executable
+      				// Retrieve the main module of the application via the .NET MainModule property
+      				WHEN EXCEPTION IN 
+      					MyModule = MyProcess:MainModule
+      					// Retrieve the full path of the executable via the .NET FileName property
+      					sExeName = MyModule:FileName
+      					
+      					// Call the API to retrieve the handle of the executable icon
+      					nHndIcon = API(“SHELL32”,“ExtractIconA”,SysInstance(),sExeName,0)
+      					
+      					// If the handle of the icon is not null
+      					IF nHndIcon <> Null THEN
+      						// Draws the icon in the image1 control
+      						DrawIcon(nHndIcon,Image1..Name)
+      					ELSE
+      						// clear the image
+      						Image1=“”		
+      					END
+      					// Create a temporary file
+      					sTmpFile = fTempFile() + “.png”
+      					// Retrieve the directory of the created temporary files
+      					sTempdir = fExtractPath(sTmpFile,fDrive+fDirectory)
+      					// save the file in png format
+      					dSaveImageGIF(Image1,sTmpFile)					
+      				DO
+      					sTmpFile = “”
+      				END
+      				// Use the .NET Responding property used to find out whether an application responds
+      				// and add the corresponding row to the table
+      				
+      				IF MyProcess:Responding = True THEN		
+      					TableAddLine(AppTable,sTmpFile, “ ” +sTitle,<§$0006§>,nProcessID,nhwnd,True)
+      				ELSE
+      					TableAddLine(AppTable,sTmpFile, “ ” +sTitle,<§$0007§>,nProcessID,nhwnd,True)
+      				END
+      				
+      			END
+      			
+      		END
+      	END
+      END
+      
+      // Return True in order for the EnumWindows API to continue its enumeration
+      RESULT True
+      
+     type : 458752
+   -
+     name : DrawIcon
+     internal_properties : CAAAAAgAAAARHKYv2JMjwTECZGlw6PBTyKDrMidV0OXgKsB4K9ckaJo7ZQa+T88TqlQY9u/9iREDnOIU8KCpW1q8GtPDbXuiyWlFa+2TZWrCkU4CAVqudjPkbZrCAFFso6rOa1a2w7ieo22zI3eBp2A4ndjJp7ykM5wn6b432QtWpUm/EEvV3q8Vhyt5riZ5TaouwZUWBPDU6i+7hAK6WA7OgzU787kYGsnZ1rjFuTzThRTHhCjCS1z/56mq/DPoxRtgS+HEiJ9FtlmkT3OaPPUYYRvN2+oX54rYXIkMUsuZVkrW95dNiwzWbj56c90wAJ2mvs771k7d75fHvoWu+SnjTqpyg1nJCamIjN/vuVA4
+     procedure_id : 1219377834241846244
+     type_code : 14
+     code : |1-
+      // Description of input/output parameters of 'DrawIcon':
+      //
+      // Draws an icon in an Image control
+      // 	IconHandle: Handle of the icon to draw returned by ExtractIcon and ExtractAssociatedIcon
+      // 	ImageControl: Name of the Image control in which the icon must be drawn
+      // 
+      // Draws an icon in an Image control
+      // 	IconHandle: Handle of the icon to draw returned by ExtractIcon and ExtractAssociatedIcon
+      // 	ImageControl: Name of the Image control in which the icon must be drawn
+      
+      Procedure DrawIcon(IconHandle is int , ImageControl)
+      
+      WHEN EXCEPTION RESULT False
+      
+      // Retrieves the Device Context of the Image control
+      nDC is int = dStartDrawing(ImageControl)
+      x, y are int = 0
+      
+      // Draws the icon in the Image control
+      API(“User32”, “DrawIcon”, nDC, x, y, IconHandle)
+      
+      // Frees the Device Context of the Image control
+      SysReleaseDC()
+      
+      // Destroys the icon to free the memory
+      RESULT DestroyIconResource(IconHandle)	
+     type : 458752
+   -
+     name : DestroyIconResource
+     internal_properties : CAAAAAgAAADy62tc94bq+FYHKhtPRipwZ+UF6W9vMJFu5ljfUH53Kcj0yAMdEq88qr1nYjTbf4ES1hV41eRosQ039VpZLoV8ZlMeRslGa2bOaBItsrSbyHQ9VOSzTrhwXkwTCJqE19x47uO+HCs6lXRMxu2LX4skGUChEDznBOSEAF8m0wVFCk3cr2oRX8yiIj4UEP6aMn1VG+gslRt2tTs77MZU16fPkydYqyxpxy8D3XcQUQtZ62o=
+     procedure_id : 1219377834241911780
+     type_code : 14
+     code : |1-
+      // Description of input/output parameters of 'DestroyIconResource':
+      // Destroys the resources allocated by the icon
+      // 	IconHandle: Handle of the icon returned by ExtractAsssociatedIcon and ExtractIcon
+      Procedure DestroyIconResource(IconHandle is int)
+      
+      WHEN EXCEPTION RESULT False
+      
+      RESULT API(“User32”, “DestroyIcon”, IconHandle)
+     type : 458752
+   -
+     name : RefreshListApps
+     internal_properties : CAAAAAgAAABhOebr51b2p+2XGZWopfwAv5wYNIPMAw89Z9KHQQ8wBPNLV3TlseRlqBmK0DxF3qpnOSeWan7kLgXPNDAc8hKWoUQtnUDJHLxR6bpc78lf/A0stMdy9n/M+2B2WP56AnjUhuJHBXFSuxPEgfTCSDBxibJINxPPWkovXpIBpojdQ8+YiHFY15Z8KySPa7nij7iHxkj6W527Rj4jhHsLhPWhUE9JVXiIysBbFGRQziHPFwsya6kWp470TrOnO/Vqgf3ikohPHn+nmORS3g==
+     procedure_id : 1219377834241977316
+     type_code : 14
+     code : |1-
+      // Syntax:
+      //RefreshListApps ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      Procedure RefreshListApps()
+      
+      nRowSelect is int										// Name of the selected application
+      i is int = 1												// Counter for the loop used to fill the processes
+      nLineFirstApp is int								// Number of the first row displayed in the app table
+      
+      //Stop the timer
+      EndTimer(nNumAppTimer)
+      
+      
+      // Check the selected row
+      nRowSelect = AppTable
+      
+      // Save the first row displayed
+      nLineFirstApp = TablePosition(AppTable)
+      
+      // Make the tables invisible while they are filled
+      AppTable..DisplayEnabled = False
+      // reset the check of all the applications to 0
+      WHILE i <= TableCount(AppTable)
+      	AppTable.Checked[i] = 0
+      	i++
+      END
+      i=1
+      // Call the EnumWindows API that enumerates all the windows
+      API(“USER32.dll”,“EnumWindows”,&EnumerateWindows,0)
+      
+      // As rows have been modified or added into the table of applications, 
+      // check whether all the displayed rows are valid
+      WHILE i <= TableCount(AppTable)
+      	
+      	IF AppTable.Checked[i] = False THEN
+      		TableDelete(AppTable,i)
+      	ELSE 
+      		i++
+      	END
+      END
+      
+      // Restore the table of applications into the same position
+      TablePosition(AppTable,nLineFirstApp)
+      
+      // Sort the table of applications according to the defined sort order (if any)
+      IF sSortApp <> “” THEN
+      	TableSort(AppTable,sSortApp)
+      END
+      
+      // If it is not found, then it was exited, so select the first one
+      IF  nRowSelect<> -1 THEN
+      	TableSelectPlus(AppTable,nRowSelect)
+      END
+      // Make the table visible
+      AppTable..DisplayEnabled = True
+      
+      // restarts the timer
+      nNumAppTimer = Timer(RefreshListApps,50)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenPrincipale
+resources :
+ string_res :
+  identifier : 0x100d6aca0001806f
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Normal
+     index : 0
+   -
+     text :
+      en-GB : High
+     index : 1
+   -
+     text :
+      en-GB : Real time
+     index : 2
+   -
+     text :
+      en-GB : Above normal
+     index : 3
+   -
+     text :
+      en-GB : Below normal
+     index : 4
+   -
+     text :
+      en-GB : Low
+     index : 5
+   -
+     text :
+      en-GB : Execution in progress
+     index : 6
+   -
+     text :
+      en-GB : No response
+     index : 7
+   -
+     text :
+      en-GB : You cannot end the Windows explorer
+     index : 8
+   -
+     text :
+      en-GB : Unable to end this process
+     index : 9
+   -
+     text :
+      en-GB : "Caution: The system may become instable if this process is ended."
+     index : 10
+   -
+     text :
+      en-GB : "Indeed, the process will not be able to save its data and to stop its operations"
+     index : 11
+   -
+     text :
+      en-GB : Do you want to end the process?
+     index : 12
+   -
+     text :
+      en-GB : Inactive process of system
+     index : 13
+   -
+     text :
+      en-GB : N/A
+     index : 18
+   -
+     text :
+      en-GB : NC
+     index : 19
+   -
+     text :
+      en-GB : ProcessMenu.Priority.
+     index : 20
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_WIN_Main.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

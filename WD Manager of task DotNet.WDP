@@ -1,0 +1,143 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Manager of task DotNet
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : "'WD Manager of .NET Tasks' Project"
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAABSBzD/tITGm7/ZaRC5b9aF3x9XWrGVZJsd4ZjxV2BuG+a0k3szJz7a7C0zPja+T4NXCi14FyZ47mA19rk+Jlh1H6EdSXRcYdlY655OBdYSwc9Ar0J0mG4CFXpIm3h87+Y8voIYFHEWq6IBt7txhg1dld6efTBp1Zb9qIg18HLBWROpDlu6dbdBRLsn2C+gPwQkesEK2R3OgwM63d6CcJown2/cGZDmGH1nKIqXSPyjtpDtWh/Np1+/iLra2zvJfRFCvcKKy9+25df/AYwBZMvY4ZiYKuupoyS4Aj2w/00bjsJ7hDk0VgivM6YyqvhZIyG2y5tDcC5ld1n6JhVQ4in44rkfVbPSmRR7WU8vcQTZjStcQHGJHt2ZXTLcD2sH3Uwumwj9TJDciN7SJGpZR5WbM+PfVjywQrHtzv5QlfMUpR7rQOtrL4Q2giN4Bo+iBy7d97VKzC1BOAXaZjFp4F5hEui4O6cI5VvRFl/GOdFtb6Q4jmhaGv9BadnsRnjy09NVhr64s3d0iPnesDey+QVWqp0F5r+9KP/mq1TUrK1J4mb3bQFGrfVMgOfAIYkP1bQbP0kfnla2Hj5s88H1xK0UY/4N0Qr8hwIQCd1H8Db/TgjP3z3KTkd2nnpOjRxeXGGVWGHbX2UHwk9MPCem+eWGQK1RhsEmHYe9ydichNSHsCNHB0KZq1QQeOEa+kI76mvPpaY4yW0WE36/EvqLrYHk31JfHGROMf+zYa8bl894KdTskCOPveW9Jat8HGEmZL0OfGEMjVUOgh5KIhymscHS+ZJBLLWmg18W+I7iv2+G2gT0FsZHCD9stf90cI0odN1lVyMsrxRFg2RJJLUEdbWwhT8fooQ61vr4OsQuc2rL1UKEvfCO2WgVF1YScQvufm4jF36zPa4P1X871mu/aCrk1DEfSHOlfoHBk4cT8Wyru/APzVPwqbL3iEOCU6klK+2jqheWb4opJ6ye0CVT4RrnGq/z1/nltLCpKVsIJWK2j+CUvR7xOLKDg+rjO12dwQGf/WuKw88xOcGgUIN0MGFBK9mw3uLVdgKtk/+NWrtfxLI9kvEBLmHnQep5aJX2StBkQhPSeI8xkSXgns/pLSmzPI5Ie5O4Ui1ynnkNJW7dD7AUG7SRyKjejRsl4mNRg8BMKMM6z7uckwFlyEUYD3nQ4ykgavgIm2+qIJCYYatOGED0jvFTkUfIPjKTjvRfcG7ySHVuYkTjFikulIyJdxhx82lw7pWSPsdKGGpNCaiWBT55n+XIlbh/UpmgRFUSuE/C71UKeTzALTNebHSkiMo5DCerAl+E/FpJwQyShzlLrUJKonI2NEYww2DP59I/CFZSSUUgcyDgPlLNFbHO1HWFrobrfX1KSGaVAQnFa03Jj2qgQLR5/O9xADsJn7N4UBEIi/LlyirLTHUnIgguXuLSZAnLuSh7/PKP6UaIFt9rCGkRWenNgqor+ey4nU/eSrfWOKZmtD1rtwtZvGd9I0XLz7Phw17MdD/spIOVTaSRyTp1E4nqTULc5rDnpilpy2g3nhwWlv3wq+gR6IbZQEwVniikWkL565e2N2LuzRjodcdeV2fwJu2kDnnrlHmFJEabvz0PJ6aA4oIG6IxePA70fX+9lFrtg65iR5N4WoHsmkUnVsIZgGWcuodFTv145B6SrO8hkxW9T1JLIL3pLtKv9uDlGOBSNbb5qGIMiMSerztk2o5HwhKBWsa00LVPY6FoEAMbDCLDbeGpTATbedRv4eo9v8oJSWFdhyqeVqiY3EtIHQjIu5q6AeW+4OmOcldtmj6JS6Uz0JH5/5XB4hcXttY47tbxCxf3S1agmxkJ8qGpvRhviQPcQYryiyf4QGRiOrDVnLYoTsD5dO1PZE2WJEVgqsVhChlN7zuCaODSBKG352qtxrjpFahtTwSMokHQNQpV69g3IJ9aPhtSK+SCOdCwByboSOkvVDzcI+SFt0tCVSGMkr2uLv/RtALYdqHHFjO+MUZgmc1ndDWnetzlkAR0rLUD3zD8vGGZwKYc1Np30r9+1xk+t/D6mrGYlgj0bpI9HinA3ipuHC7sNjSsDB2x3QXBCS8x64g9zM082LLIvic464LN+SyKWDB/biyPR2WEoSo=
+ configurations :
+  -
+    name : WD Manager of task DotNet
+    internal_properties : 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
+    configuration_id : 10238504132412815028
+    type : 1
+    generation_name : WD Manager of task DotNet.exe
+    version :
+     version : VI200041K
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\description.ico
+    language : 2
+ elements :
+  identifier : 0x4ac60298000f0cb3
+  elements :
+   -
+     name : Memory
+     identifier : 0x401646170000658e
+     internal_properties : CAAAAAgAAABXM7/jwL319l+iKHCccDB5bXg0NDc/SGsqNvVAbtC6DiLeL+0PMxTLHBiCfgb6hnpCwg==
+     physical_name : .\Memory.wdg
+     type : 7
+   -
+     name : TEST_WIN_Main
+     identifier : 0x4a08541300003ba6
+     internal_properties : CAAAAAgAAAB60KLmxYKqtYjvVTHdihuoTMObgyY4ewq2cY7ONOY2ohr0dxXWdFOI2UW/Ofn3g3Vf5w==
+     physical_name : .\TEST_WIN_Main.wxt
+     type : 17
+   -
+     name : Global procedures of WD Manager of DotNET tasks
+     identifier : 0x400d66880000e083
+     internal_properties : CAAAAAgAAAAKAHIWldJaBdg/5aGte8/cZGUz+86XZ3KnPmQ69TtRR7kJJuYGBOMYqZUP6akn08UPFw==
+     physical_name : .\Global procedures of WD Manager of DotNET tasks.wdg
+     type : 7
+   -
+     name : WIN_Main
+     identifier : 0x400d6b5500009d82
+     internal_properties : CAAAAAgAAAB716PnxIGpsovuVDzYjxC5yboUFKs0H7Sidr7snWOrHZNpgBzTd1CH2ES+Ovr2gnZe5g==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies :
+   -
+     name : System
+     internal_properties : CAAAAAgAAAAyTlCTdBme2sRHCGaIXE3x9C7MGISwdLb4VA==
+     description : "System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+     physical_name : System.dll
+   -
+     name : mscorlib
+     internal_properties : CAAAAAgAAAAyTlCTdBme2sRHCGaIXE3x9C7MGISwdLb4VA==
+     description : "mscorlib, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+     physical_name : mscorlib.dll
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : ".\\WD Manager of DOTNET tasks.sty\r\n.\\WD Manager of .NetTask.sty"
+ wb_style_sheet : .\WD Manager of DOTNET tasks.wws
+ code_elements :
+  internal_properties : CAAAAAgAAAAySygPcZ4GJX0P6OaZtGImf6VeIpQpJLYsyy6IpEyeB4oR6+2AWanMnxYyL8kUO6ZLoCf7gRyLXo4A3BCx9g==
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      
+      
+      CONSTANT
+      	csNameRefreshThread =“RefreshThread”
+      END
+      
+      IF InTestMode() = False THEN
+      	WHEN EXCEPTION
+      		Error(<§@00000000000000000000§>, <§@00000000000000000001§>, ExceptionInfo())
+      		EndProgram()
+      	END
+      	
+      END
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Manager of task DotNet
+     identifier : 0x4ac6029800140d30
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : Windows Store Apps API
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : An unexpected error occurred
+     index : 0
+   -
+     text :
+      en-GB : "The application will be ended "
+     index : 1
+   -
+     text :
+      en-GB : RefreshThread
+     index : 2
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
